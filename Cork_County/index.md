@@ -1,0 +1,143 @@
+---
+layout: page
+title: Schools in Cork County
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All RoI districts]](..)
+
+# Schools in Cork County
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Coláiste Muire](Coláiste_Muire.md) grade 0
+- [Ath Treasna Girls National School](Ath_Treasna_Girls_National_School.md) grade 0
+- [Scoil Naisiunta Faill O Gcobhthaigh](Scoil_Naisiunta_Faill_O_Gcobhthaigh.md) grade 0
+- [Ballygown National School](Ballygown_National_School.md) grade 0
+- [Ballyhea National School](Ballyhea_National_School.md) grade 0
+- [Scoil Mhuire Ballyhooly](Scoil_Mhuire_Ballyhooly.md) grade 0
+- [St Lachteen's National School](St_Lachteen's_National_School.md) grade 0
+- [Boherbue National School](Boherbue_National_School.md) grade 0
+- [Lisgriffin National School](Lisgriffin_National_School.md) grade 0
+- [Castletownroche National School](Castletownroche_National_School.md) grade 0
+- [Ballyhass National School](Ballyhass_National_School.md) grade 0
+- [Holy Family S S](Holy_Family_S_S.md) grade 0
+- [St Anne's](St_Anne's.md) grade 0
+- [Scoil Mhuire Na Trocaire](Scoil_Mhuire_Na_Trocaire.md) grade 0
+- [Scoil Naisiunta Moing Na Miol](Scoil_Naisiunta_Moing_Na_Miol.md) grade 0
+- [Banteer National School](Banteer_National_School.md) grade 0
+- [Knocknagree National School](Knocknagree_National_School.md) grade 0
+- [Kiskeam National School](Kiskeam_National_School.md) grade 0
+- [Curriglass National School](Curriglass_National_School.md) grade 0
+- [Derrinagree National School](Derrinagree_National_School.md) grade 0
+- [Presentation Primary (Amalgamated See Note)](Presentation_Primary_(Amalgamated_See_Note).md)
+- [Scoil Na Mbraithre (Amalgamated See Note)](Scoil_Na_Mbraithre_(Amalgamated_See_Note).md)
+- [Dromagh Mixed National School](Dromagh_Mixed_National_School.md) grade 0
+- [Scoil Naisiunta Naomh Muire](Scoil_Naisiunta_Naomh_Muire.md) grade 0
+- [St Abbey's National School](St_Abbey's_National_School.md) grade 0
+- [Scoil Naisiunta Gleannamhain](Scoil_Naisiunta_Gleannamhain.md) grade 0
+- [Scoil Naisiunta Rath Dubh](Scoil_Naisiunta_Rath_Dubh.md) grade 0
+- [Convent Girls School Of Mercy, Kanturk - Amalgamated](Convent_Girls_School_Of_Mercy,_Kanturk_-_Amalgamated.md) grade 0
+- [Scoil Naomh Eoin Baiste](Scoil_Naomh_Eoin_Baiste.md) grade 0
+- [Sn Cill Dairbhre](Sn_Cill_Dairbhre.md) grade 0
+- [Curraghagalla National School](Curraghagalla_National_School.md) grade 0
+- [St. Martins Senior National School](St._Martins_Senior_National_School.md) grade 0
+- [Kilworth Junior National School](Kilworth_Junior_National_School.md) grade 0
+- [Scoil Mhairtin](Scoil_Mhairtin.md) grade 0
+- [Scoil Aonghusa Mallow Community National School](Scoil_Aonghusa_Mallow_Community_National_School.md) grade 0
+- [Scoil Naisiunta Fhursa](Scoil_Naisiunta_Fhursa.md) grade 0
+- [Liscarroll National School](Liscarroll_National_School.md) grade 0
+- [Gael Scoil Thomais Daibhis](Gael_Scoil_Thomais_Daibhis.md) grade 0
+- [Scoil Naisiunta Cuilinn Ui Caoimh](Scoil_Naisiunta_Cuilinn_Ui_Caoimh.md) grade 0
+- [Scoil Naisiunta Iosagain](Scoil_Naisiunta_Iosagain.md) grade 0
+- [Scoil Ghobnatan](Scoil_Ghobnatan.md) grade 0
+- [St Patrick's National School, Mallow](St_Patrick's_National_School,_Mallow.md) grade 0
+- [Rathain National Schol](Rathain_National_Schol.md) grade 0
+- [Shanballymor National School](Shanballymor_National_School.md) grade 0
+- [Killavullen National School](Killavullen_National_School.md) grade 0
+- [Ballyclough Mixed National School](Ballyclough_Mixed_National_School.md) grade 0
+- [Scoil Naisiunta Ath Na Lionta](Scoil_Naisiunta_Ath_Na_Lionta.md) grade 0
+- [Burnfort National School](Burnfort_National_School.md) grade 0
+- [Mallow Con National School](Mallow_Con_National_School.md) grade 0
+- [Baltydaniel National School](Baltydaniel_National_School.md) grade 0
+- [Scoil Naisiunta Dhrom Athain](Scoil_Naisiunta_Dhrom_Athain.md) grade 0
+- [Ballydesmond National School](Ballydesmond_National_School.md) grade 0
+- [Meelin National School](Meelin_National_School.md) grade 0
+- [Scoil Naomh Pádraig](Scoil_Naomh_Pádraig.md) grade 0
+- [Scoil Naisiunta Mhuire B](Scoil_Naisiunta_Mhuire_B.md) grade 0
+- [Cloghoola Mixed National School](Cloghoola_Mixed_National_School.md) grade 0
+- [Millstreet Convent National School](Millstreet_Convent_National_School.md) grade 0
+- [Scoil Naisiunta Gleann Na Huladh](Scoil_Naisiunta_Gleann_Na_Huladh.md) grade 0
+- [Bunscoil Na Toirbhirte](Bunscoil_Na_Toirbhirte.md) grade 0
+- [C.B.S Primary Mitchelstown](C.B.S_Primary_Mitchelstown.md) grade 0
+- [Ballygiblinn National School](Ballygiblinn_National_School.md) grade 0
+- [Ballindangan Mixed National School](Ballindangan_Mixed_National_School.md) grade 0
+- [Lismire School](Lismire_School.md) grade 0
+- [Newmarket Boys National School](Newmarket_Boys_National_School.md) grade 0
+- [St. Colman's B.N.S. Kanturk - Amalgamated](St._Colman's_B.N.S._Kanturk_-_Amalgamated.md) grade 0
+- [Kilcorney Mixed National School](Kilcorney_Mixed_National_School.md) grade 0
+- [Freemount Mixed National School](Freemount_Mixed_National_School.md) grade 0
+- [Seandroma Boys National School](Seandroma_Boys_National_School.md) grade 0
+- [Druimne National School](Druimne_National_School.md) grade 0
+- [Scoile Muire, Milford, Charleville](Scoile_Muire,_Milford,_Charleville.md) grade 0
+- [Tullaslease Mixed National School](Tullaslease_Mixed_National_School.md) grade 0
+- [St Josephs Convent National School](St_Josephs_Convent_National_School.md) grade 0
+- [Rathduane National School](Rathduane_National_School.md) grade 0
+- [Rockchapel National School](Rockchapel_National_School.md) grade 0
+- [Mallow No 1 National School](Mallow_No_1_National_School.md) grade 0
+- [Hamilton High School](Hamilton_High_School.md) grade 0
+- [Coláiste Na Toirbhirte](Coláiste_Na_Toirbhirte.md) grade 0
+- [Colaiste Ghobnatan](Colaiste_Ghobnatan.md) grade 0
+- [C.B.S. Charleville](C.B.S._Charleville.md) grade 0
+- [Bandon Grammar School](Bandon_Grammar_School.md) grade 0
+- [Ardscoil Phobal Bheanntrai](Ardscoil_Phobal_Bheanntrai.md) grade 0
+- [Coláiste Muire](Coláiste_Muire.md) grade 0
+- [Boherbue Comprehensive School](Boherbue_Comprehensive_School.md) grade 0
+- [Glanmire Community College](Glanmire_Community_College.md) grade 0
+- [Coláiste An Chroí Naofa](Coláiste_An_Chroí_Naofa.md) grade 0
+- [Gaelcholáiste Charraig Uí Leighin](Gaelcholáiste_Charraig_Uí_Leighin.md) grade 0
+- [Carrignafoy Community College, Cobh](Carrignafoy_Community_College,_Cobh.md) grade 0
+- [St Aloysius College](St_Aloysius_College.md) grade 0
+- [Midleton Christian Brothers School](Midleton_Christian_Brothers_School.md) grade 0
+- [Beara Community School](Beara_Community_School.md) grade 0
+- [Mannix College](Mannix_College.md) grade 0
+- [Colaiste Pobail Naomh Mhuire](Colaiste_Pobail_Naomh_Mhuire.md) grade 0
+- [Clonakilty Community College](Clonakilty_Community_College.md) grade 0
+- [Coachford College](Coachford_College.md) grade 0
+- [Schull Community College](Schull_Community_College.md) grade 0
+- [Colaiste Muire - Realt Na Mara](Colaiste_Muire_-_Realt_Na_Mara.md) grade 0
+- [Nagle Rice Secondary School](Nagle_Rice_Secondary_School.md) grade 0
+- [Maria Immaculata Community College](Maria_Immaculata_Community_College.md) grade 0
+- [Coláiste An Chraoibhin](Coláiste_An_Chraoibhin.md) grade 0
+- [Colaiste An Phiarsaigh](Colaiste_An_Phiarsaigh.md) grade 0
+- [Colaiste Eoin](Colaiste_Eoin.md) grade 0
+- [Skibbereen Community School](Skibbereen_Community_School.md) grade 0
+- [Ballincollig Community School](Ballincollig_Community_School.md) grade 0
+- [Colaiste Treasa](Colaiste_Treasa.md) grade 0
+- [St. Brogan's College Bandon](St._Brogan's_College_Bandon.md) grade 0
+- [Kinsale Community School](Kinsale_Community_School.md) grade 0
+- [Edmund Rice School Carrigaline](Edmund_Rice_School_Carrigaline.md) grade 0
+- [Mcegan College](Mcegan_College.md) grade 0
+- [Coláiste Pobail Bheanntraí](Coláiste_Pobail_Bheanntraí.md) grade 0
+- [Coláiste Cholmáin](Coláiste_Cholmáin.md) grade 0
+- [Patrician Academy](Patrician_Academy.md) grade 0
+- [Midleton College](Midleton_College.md) grade 0
+- [Millstreet Community School](Millstreet_Community_School.md) grade 0
+- [St Fanahan's College](St_Fanahan's_College.md) grade 0
+- [St Peter's Community School](St_Peter's_Community_School.md) grade 0
+- [Le Cheile Ballincollig](Le_Cheile_Ballincollig.md) grade 0
+- [St Mary's High School](St_Mary's_High_School.md) grade 0
+- [St Francis College](St_Francis_College.md) grade 0
+- [Mount St Michael](Mount_St_Michael.md) grade 0
+- [St Goban's College](St_Goban's_College.md) grade 0
+- [Mercy Heights (Amalgamated)](Mercy_Heights_(Amalgamated).md)
+- [St Fachtna's (Amalgamated)](St_Fachtna's_(Amalgamated).md)
+- [Rossa College (Amalgamated)](Rossa_College_(Amalgamated).md)
+- [Davis College](Davis_College.md) grade 0
+- [Carrigtwohill Post-Primary School](Carrigtwohill_Post-Primary_School.md) grade 0
+- [Carrigaline Community School](Carrigaline_Community_School.md) grade 0
+- [Christian Brothers](Christian_Brothers.md) grade 0
+- [St Colman's Community College](St_Colman's_Community_College.md) grade 0
+- [Pobailscoil Na Trionoide](Pobailscoil_Na_Trionoide.md) grade 0

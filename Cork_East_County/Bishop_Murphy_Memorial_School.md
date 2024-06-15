@@ -1,0 +1,34 @@
+---
+layout: page
+title: Bishop Murphy Memorial School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Cork East County]](..)
+
+# Bishop Murphy Memorial School (Cork East County)
+
+**Address**: Fermoy Co Cork.
+
+**Phone**: 025 31116
+
+**Student Count**: 134
+
+**Website**: <http://www.bishopmurphyschool.com>
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/Ireland/edit/main/./Cork_East_County/Bishop_Murphy_Memorial_School.md). See also [rules for contribution](../../../contribution-rules/)

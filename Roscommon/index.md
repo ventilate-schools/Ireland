@@ -1,0 +1,129 @@
+---
+layout: page
+title: Schools in Roscommon
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All RoI districts]](..)
+
+# Schools in Roscommon
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Scoil Muire Gan Smal](Scoil_Muire_Gan_Smal.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [Gaelscoil De Hide](Gaelscoil_De_Hide.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [Scoil Bhríde](Scoil_Bhríde.md) grade 0
+- [Scoil Naisiunta Padraig Naofa](Scoil_Naisiunta_Padraig_Naofa.md) grade 0
+- [Scoil Bhríde](Scoil_Bhríde.md) grade 0
+- [Scoil Naisiunta Padraig Naofa](Scoil_Naisiunta_Padraig_Naofa.md) grade 0
+- [Gaelscoil De Hide](Gaelscoil_De_Hide.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [Scoil Muire Gan Smal](Scoil_Muire_Gan_Smal.md) grade 0
+- [Ballintubber National School](Ballintubber_National_School.md) grade 0
+- [Scoil Naisiunta Naomh Seosamh](Scoil_Naisiunta_Naomh_Seosamh.md) grade 0
+- [Scoil Naisiunta Padraig Naofa](Scoil_Naisiunta_Padraig_Naofa.md) grade 0
+- [Scoil Naisiunta Padraig Naofa](Scoil_Naisiunta_Padraig_Naofa.md) grade 0
+- [Ballinlough National School](Ballinlough_National_School.md) grade 0
+- [Scoil Bhríde](Scoil_Bhríde.md) grade 0
+- [Abbey National School (Amalgamated See Note)](Abbey_National_School_(Amalgamated_See_Note).md)
+- [Athleague National School](Athleague_National_School.md) grade 0
+- [Rahara National School](Rahara_National_School.md) grade 0
+- [Cloonakilla National School](Cloonakilla_National_School.md) grade 0
+- [Camcloon National School](Camcloon_National_School.md) grade 0
+- [Scoil Naisiunta Cor Na Fola B](Scoil_Naisiunta_Cor_Na_Fola_B.md) grade 0
+- [Clonown National School](Clonown_National_School.md) grade 0
+- [Brideswell National School](Brideswell_National_School.md) grade 0
+- [Summerhill Primary School](Summerhill_Primary_School.md) grade 0
+- [Ballagh National School](Ballagh_National_School.md) grade 0
+- [St Attractas National School](St_Attractas_National_School.md) grade 0
+- [Don National School](Don_National_School.md) grade 0
+- [Ballinameen National School](Ballinameen_National_School.md) grade 0
+- [Attyrory National School](Attyrory_National_School.md) grade 0
+- [Ballyforan Mixed National School](Ballyforan_Mixed_National_School.md) grade 0
+- [Granlahan Girls National School](Granlahan_Girls_National_School.md) grade 0
+- [Ballinlough National School](Ballinlough_National_School.md) grade 0
+- [Carrick Mixed National School](Carrick_Mixed_National_School.md) grade 0
+- [Lisaniskey National School](Lisaniskey_National_School.md) grade 0
+- [Cloonfad National School](Cloonfad_National_School.md) grade 0
+- [Scoil Naisiunta Naomh Seosamh](Scoil_Naisiunta_Naomh_Seosamh.md) grade 0
+- [Scoil Naisiúnta Naomh Padraig Ballyfarnon](Scoil_Naisiúnta_Naomh_Padraig_Ballyfarnon.md) grade 0
+- [Scoil Naisiunta Rath Cruachan](Scoil_Naisiunta_Rath_Cruachan.md) grade 0
+- [St Patricks Boys National School](St_Patricks_Boys_National_School.md) grade 0
+- [Scoil Naisiunta Paroisteach](Scoil_Naisiunta_Paroisteach.md) grade 0
+- [Scoil Naisiunta Cill Ronain](Scoil_Naisiunta_Cill_Ronain.md) grade 0
+- [Grange National School](Grange_National_School.md) grade 0
+- [Scoil Naisiunta Cruachain](Scoil_Naisiunta_Cruachain.md) grade 0
+- [St Josephs Boys National School Amalgamated](St_Josephs_Boys_National_School_Amalgamated.md) grade 0
+- [Abbey Primary School](Abbey_Primary_School.md) grade 0
+- [Brusna National School](Brusna_National_School.md) grade 0
+- [Castle Sampson National School](Castle_Sampson_National_School.md) grade 0
+- [Dangan National School](Dangan_National_School.md) grade 0
+- [Scoil Na Naingeal Naofa Amalgamated](Scoil_Na_Naingeal_Naofa_Amalgamated.md) grade 0
+- [Gorthaganny National School](Gorthaganny_National_School.md) grade 0
+- [Scoil Naisiunta Gort An Ghlasain](Scoil_Naisiunta_Gort_An_Ghlasain.md) grade 0
+- [Castleplunkett National School](Castleplunkett_National_School.md) grade 0
+- [St Michael's School](St_Michael's_School.md) grade 0
+- [Scoil Naisiunta Pol Naofa](Scoil_Naisiunta_Pol_Naofa.md) grade 0
+- [Ballintubber National School](Ballintubber_National_School.md) grade 0
+- [Ballanagare National School](Ballanagare_National_School.md) grade 0
+- [St Annes Con National School](St_Annes_Con_National_School.md) grade 0
+- [Tarmon National School](Tarmon_National_School.md) grade 0
+- [Threen National School](Threen_National_School.md) grade 0
+- [Cloonbonnif National School](Cloonbonnif_National_School.md) grade 0
+- [Scoil Naisiunta Lios A Cuill M](Scoil_Naisiunta_Lios_A_Cuill_M.md) grade 0
+- [Mantua National School](Mantua_National_School.md) grade 0
+- [Cloontuskert National School](Cloontuskert_National_School.md) grade 0
+- [Scoil Naisiunta Cnoc An Chrocaire](Scoil_Naisiunta_Cnoc_An_Chrocaire.md) grade 0
+- [Gaelscoil De Hide](Gaelscoil_De_Hide.md) grade 0
+- [St. Comán's Wood](St._Comán's_Wood.md) grade 0
+- [N Micheal Agus Padraig](N_Micheal_Agus_Padraig.md) grade 0
+- [Carrick National School](Carrick_National_School.md) grade 0
+- [Lismoil National School](Lismoil_National_School.md) grade 0
+- [Ballintleva National School](Ballintleva_National_School.md) grade 0
+- [Roxboro National School](Roxboro_National_School.md) grade 0
+- [Ardkeenan National School](Ardkeenan_National_School.md) grade 0
+- [Scoil Naisiunta Padraig Naofa](Scoil_Naisiunta_Padraig_Naofa.md) grade 0
+- [Abbeycarton National School](Abbeycarton_National_School.md) grade 0
+- [Fairymount National School](Fairymount_National_School.md) grade 0
+- [Ciaran Naofa](Ciaran_Naofa.md) grade 0
+- [Scoil Bhríde](Scoil_Bhríde.md) grade 0
+- [Clooneyquinn National School](Clooneyquinn_National_School.md) grade 0
+- [Kilmurray National School](Kilmurray_National_School.md) grade 0
+- [Ballybay Central](Ballybay_Central.md) grade 0
+- [Glanduff National School](Glanduff_National_School.md) grade 0
+- [Naomh Atrachta](Naomh_Atrachta.md) grade 0
+- [Lecarrow Community National School](Lecarrow_Community_National_School.md) grade 0
+- [Drumboylan National School](Drumboylan_National_School.md) grade 0
+- [Strabaggan National School](Strabaggan_National_School.md) grade 0
+- [Scoil Naisiunta Mhuire Lourdes, Loughglynn](Scoil_Naisiunta_Mhuire_Lourdes,_Loughglynn.md) grade 0
+- [St Ciaran's National School](St_Ciaran's_National_School.md) grade 0
+- [Mount Talbot National School](Mount_Talbot_National_School.md) grade 0
+- [Our Lady Of Mount Carmel N.S](Our_Lady_Of_Mount_Carmel_N.S.md) grade 0
+- [Cloonfour National School](Cloonfour_National_School.md) grade 0
+- [Clover Hill National School](Clover_Hill_National_School.md) grade 0
+- [Kilteevan National School](Kilteevan_National_School.md) grade 0
+- [Scoil Mhuire Convent Primary School (Amalgamated See Note)](Scoil_Mhuire_Convent_Primary_School_(Amalgamated_See_Note).md)
+- [Scoil Naisiunta Naomh Ceitheach](Scoil_Naisiunta_Naomh_Ceitheach.md) grade 0
+- [Slatta National School](Slatta_National_School.md) grade 0
+- [Ballyfeeney National School](Ballyfeeney_National_School.md) grade 0
+- [Kiltrustan National School](Kiltrustan_National_School.md) grade 0
+- [Clooncagh National School](Clooncagh_National_School.md) grade 0
+- [St Mary's Primary](St_Mary's_Primary.md) grade 0
+- [Taughmaconnell National School](Taughmaconnell_National_School.md) grade 0
+- [Tibohine National School](Tibohine_National_School.md) grade 0
+- [Tisrara National School](Tisrara_National_School.md) grade 0
+- [Tulsk National School](Tulsk_National_School.md) grade 0
+- [St Michael's National School Woodbrook](St_Michael's_National_School_Woodbrook.md) grade 0
+- [C.B.S. Roscommon](C.B.S._Roscommon.md) grade 0
+- [St Nathy's College](St_Nathy's_College.md) grade 0
+- [Castlerea Community School](Castlerea_Community_School.md) grade 0
+- [Scoil Muire Gan Smal](Scoil_Muire_Gan_Smal.md) grade 0
+- [Elphin Community College](Elphin_Community_College.md) grade 0
+- [Roscommon Community College](Roscommon_Community_College.md) grade 0
+- [Coláiste Chiaráin](Coláiste_Chiaráin.md) grade 0

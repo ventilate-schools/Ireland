@@ -1,0 +1,124 @@
+---
+layout: page
+title: Schools in Sligo
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All RoI districts]](..)
+
+# Schools in Sligo
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Our Lady's National School](Our_Lady's_National_School.md) grade 0
+- [St. Josephs National School](St._Josephs_National_School.md) grade 0
+- [Holy Family School](Holy_Family_School.md) grade 0
+- [St Joseph's National School](St_Joseph's_National_School.md) grade 0
+- [St Joseph's National School](St_Joseph's_National_School.md) grade 0
+- [St. Patrick's National School](St._Patrick's_National_School.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [Rockfield National School](Rockfield_National_School.md) grade 0
+- [St Josephs Special Sch](St_Josephs_Special_Sch.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [Holy Family School](Holy_Family_School.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [St. Josephs National School](St._Josephs_National_School.md) grade 0
+- [Mercy College](Mercy_College.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [St. Patrick's National School](St._Patrick's_National_School.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [St. Josephs National School](St._Josephs_National_School.md) grade 0
+- [St. Patrick's National School](St._Patrick's_National_School.md) grade 0
+- [St Joseph's National School](St_Joseph's_National_School.md) grade 0
+- [St Joseph's National School](St_Joseph's_National_School.md) grade 0
+- [Sligo School Project](Sligo_School_Project.md) grade 0
+- [Scoil Naithi National School](Scoil_Naithi_National_School.md) grade 0
+- [Castlerock National School](Castlerock_National_School.md) grade 0
+- [Carraroe National School](Carraroe_National_School.md) grade 0
+- [St Joseph's National School](St_Joseph's_National_School.md) grade 0
+- [Scoil Naisiunta Cnoc Mionna](Scoil_Naisiunta_Cnoc_Mionna.md) grade 0
+- [St John's Ballisodare](St_John's_Ballisodare.md) grade 0
+- [Gaelscoil Chnoc Na Re](Gaelscoil_Chnoc_Na_Re.md) grade 0
+- [St Lassara's National School](St_Lassara's_National_School.md) grade 0
+- [Corballa National School](Corballa_National_School.md) grade 0
+- [Rathlee National School](Rathlee_National_School.md) grade 0
+- [Ballintogher National School](Ballintogher_National_School.md) grade 0
+- [Scoil Naisiunta Aodain](Scoil_Naisiunta_Aodain.md) grade 0
+- [St Josephs Special Sch](St_Josephs_Special_Sch.md) grade 0
+- [St Edwards National School](St_Edwards_National_School.md) grade 0
+- [St. Patrick's National School](St._Patrick's_National_School.md) grade 0
+- [St. Josephs National School](St._Josephs_National_School.md) grade 0
+- [Our Lady's National School](Our_Lady's_National_School.md) grade 0
+- [Ballinlig National School](Ballinlig_National_School.md) grade 0
+- [Scoil Croi Naofa Bunnanaddan](Scoil_Croi_Naofa_Bunnanaddan.md) grade 0
+- [Scoil Naisiunta Caislean Geal](Scoil_Naisiunta_Caislean_Geal.md) grade 0
+- [St Brendans National School](St_Brendans_National_School.md) grade 0
+- [Scoil Naisiunta Clochog](Scoil_Naisiunta_Clochog.md) grade 0
+- [Keash National School](Keash_National_School.md) grade 0
+- [Scoil Naisiunta Muire Gan Smal](Scoil_Naisiunta_Muire_Gan_Smal.md) grade 0
+- [Cliffoney National School](Cliffoney_National_School.md) grade 0
+- [Cloonloo National School](Cloonloo_National_School.md) grade 0
+- [Mary Immaculate Girls National School](Mary_Immaculate_Girls_National_School.md) grade 0
+- [Scoil Mhuire Agus Iosaf](Scoil_Mhuire_Agus_Iosaf.md) grade 0
+- [Rockfield National School](Rockfield_National_School.md) grade 0
+- [Sch Of Immaculate Conc](Sch_Of_Immaculate_Conc.md) grade 0
+- [Scoil Naisiunta Cul Fada](Scoil_Naisiunta_Cul_Fada.md) grade 0
+- [Scoil Naisiunta Seosamh Naofa](Scoil_Naisiunta_Seosamh_Naofa.md) grade 0
+- [St Joseph's National School - Closed](St_Joseph's_National_School_-_Closed.md) grade 0
+- [Drimina National School   Scoil Muire Gan Smal](Drimina_National_School___Scoil_Muire_Gan_Smal.md) grade 0
+- [Sn Muire Gan Smal](Sn_Muire_Gan_Smal.md) grade 0
+- [Dromard National School](Dromard_National_School.md) grade 0
+- [Dromore West Central](Dromore_West_Central.md) grade 0
+- [Sin Muire Gan Smal](Sin_Muire_Gan_Smal.md) grade 0
+- [Stokane National School](Stokane_National_School.md) grade 0
+- [Enniscrone National School](Enniscrone_National_School.md) grade 0
+- [Kilglass National School](Kilglass_National_School.md) grade 0
+- [Sligo Sudbury School](Sligo_Sudbury_School.md) grade 0
+- [Geevagh National School Amalgamated](Geevagh_National_School_Amalgamated.md) grade 0
+- [Scoil Naomh Molaise](Scoil_Naomh_Molaise.md) grade 0
+- [Carn National School](Carn_National_School.md) grade 0
+- [Mullaghroe National School - Closed](Mullaghroe_National_School_-_Closed.md) grade 0
+- [Leaffoney National School](Leaffoney_National_School.md) grade 0
+- [Killavil National School](Killavil_National_School.md) grade 0
+- [Killeenduff National School](Killeenduff_National_School.md) grade 0
+- [Scoil Naisiunta Naomh Atrachta](Scoil_Naisiunta_Naomh_Atrachta.md) grade 0
+- [Scoil Naisiunta Naomh Sheosaimh](Scoil_Naisiunta_Naomh_Sheosaimh.md) grade 0
+- [Ransboro National School](Ransboro_National_School.md) grade 0
+- [St. Aiden's National School](St._Aiden's_National_School.md) grade 0
+- [Carns National School](Carns_National_School.md) grade 0
+- [Owenbeg National School](Owenbeg_National_School.md) grade 0
+- [Rathcormack National School](Rathcormack_National_School.md) grade 0
+- [Ardkeerin National School](Ardkeerin_National_School.md) grade 0
+- [Coolbock National School -Closed](Coolbock_National_School_-Closed.md) grade 0
+- [Scoil Naisiunta Realt Na Mara, Rosses Point](Scoil_Naisiunta_Realt_Na_Mara,_Rosses_Point.md) grade 0
+- [St Pauls National School Collooney](St_Pauls_National_School_Collooney.md) grade 0
+- [Scoil Ursula National School](Scoil_Ursula_National_School.md) grade 0
+- [Scoil Asicus Strandhill National School](Scoil_Asicus_Strandhill_National_School.md) grade 0
+- [Sooey National School](Sooey_National_School.md) grade 0
+- [Carbury Nat Sch](Carbury_Nat_Sch.md) grade 0
+- [St. Michaels National School](St._Michaels_National_School.md) grade 0
+- [Moylough National School](Moylough_National_School.md) grade 0
+- [Holy Family School](Holy_Family_School.md) grade 0
+- [Scoil Naisiunta Naomh Ailbhe](Scoil_Naisiunta_Naomh_Ailbhe.md) grade 0
+- [Ballinode College](Ballinode_College.md) grade 0
+- [St Attracta's Community School](St_Attracta's_Community_School.md) grade 0
+- [Colaiste Muire Ballymote](Colaiste_Muire_Ballymote.md) grade 0
+- [Corran College](Corran_College.md) grade 0
+- [Mercy College](Mercy_College.md) grade 0
+- [Coláiste Iascaigh](Coláiste_Iascaigh.md) grade 0
+- [Jesus & Mary Secondary School](Jesus_&_Mary_Secondary_School.md) grade 0
+- [Ursuline College](Ursuline_College.md) grade 0
+- [Grange Post Primary School](Grange_Post_Primary_School.md) grade 0
+- [Gurteen Vocational School](Gurteen_Vocational_School.md) grade 0
+- [Summerhill College](Summerhill_College.md) grade 0
+- [Coola Post-Primary School](Coola_Post-Primary_School.md) grade 0
+- [Sligo Grammar School](Sligo_Grammar_School.md) grade 0
+- [North Connaught College](North_Connaught_College.md) grade 0

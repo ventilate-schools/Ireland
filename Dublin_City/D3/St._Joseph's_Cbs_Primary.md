@@ -1,0 +1,34 @@
+---
+layout: page
+title: St. Joseph's Cbs Primary
+---
+# Navigation
+
+[[All countries/states/provinces]](../../../..) > [[All Irish School Districts]](../../..) > [[All Dublin School Districts]](../..) > [[All In Dublin 3]](..)
+
+# St. Joseph's Cbs Primary (Dublin 3)
+
+**Address**: Marino Park Avenue, Fairview Dublin 3
+
+**Phone**: 01 8336127
+
+**Student Count**: 112
+
+**Website**: <http://www.stjosephscbs.ie>
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/Ireland/edit/main/./Dublin_3/St._Joseph's_Cbs_Primary.md). See also [rules for contribution](../../../contribution-rules/)

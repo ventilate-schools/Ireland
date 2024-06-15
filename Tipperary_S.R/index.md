@@ -1,0 +1,135 @@
+---
+layout: page
+title: Schools in Tipperary S.R
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All RoI districts]](..)
+
+# Schools in Tipperary S.R
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Bansha National School](Bansha_National_School.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Holy Trinity National School](Holy_Trinity_National_School.md) grade 0
+- [Moyglass National School](Moyglass_National_School.md) grade 0
+- [St Oliver Plunketts National School](St_Oliver_Plunketts_National_School.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Holy Trinity National School](Holy_Trinity_National_School.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [Kilross National School](Kilross_National_School.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Skeheenarinky National School](Skeheenarinky_National_School.md) grade 0
+- [Anacarty National School](Anacarty_National_School.md) grade 0
+- [Ayle National School](Ayle_National_School.md) grade 0
+- [Gaelscoil Chluain Meala](Gaelscoil_Chluain_Meala.md) grade 0
+- [Our Lady’S National School](Our_Lady’S_National_School.md) grade 0
+- [Ballyneale National School](Ballyneale_National_School.md) grade 0
+- [Killurney National School](Killurney_National_School.md) grade 0
+- [Scoil Teampall Toinne](Scoil_Teampall_Toinne.md) grade 0
+- [Little Flower National School](Little_Flower_National_School.md) grade 0
+- [Bansha National School](Bansha_National_School.md) grade 0
+- [Saint Isadoir](Saint_Isadoir.md) grade 0
+- [Burncourt National School](Burncourt_National_School.md) grade 0
+- [Scoil Naisiunta Mhuire Na Trocaire - Amalgamated](Scoil_Naisiunta_Mhuire_Na_Trocaire_-_Amalgamated.md) grade 0
+- [Ballylooby National School](Ballylooby_National_School.md) grade 0
+- [Ballydrehid National School](Ballydrehid_National_School.md) grade 0
+- [Cahir Boys National School- Amalgamated](Cahir_Boys_National_School-_Amalgamated.md) grade 0
+- [Poulacapple National School](Poulacapple_National_School.md) grade 0
+- [Cappawhite National School](Cappawhite_National_School.md) grade 0
+- [Carrick On Suir Cbs](Carrick_On_Suir_Cbs.md) grade 0
+- [Grangemockler National School](Grangemockler_National_School.md) grade 0
+- [Cormaic Special School](Cormaic_Special_School.md) grade 0
+- [Cashel Deanery](Cashel_Deanery.md) grade 0
+- [Scoil Aonghusa](Scoil_Aonghusa.md) grade 0
+- [Golden National School](Golden_National_School.md) grade 0
+- [New Inn Boys National School](New_Inn_Boys_National_School.md) grade 0
+- [St John The Baptist Bns](St_John_The_Baptist_Bns.md) grade 0
+- [Kilsheelan National School](Kilsheelan_National_School.md) grade 0
+- [Clerihan National School](Clerihan_National_School.md) grade 0
+- [Scoil Naisiunta Muire Na Naingeal](Scoil_Naisiunta_Muire_Na_Naingeal.md) grade 0
+- [Clogheen Central National School](Clogheen_Central_National_School.md) grade 0
+- [Rath Keevin National School](Rath_Keevin_National_School.md) grade 0
+- [St Peter And Paul](St_Peter_And_Paul.md) grade 0
+- [Powerstown National School](Powerstown_National_School.md) grade 0
+- [Cloneen National School](Cloneen_National_School.md) grade 0
+- [Scoil Naisiunta An Grainseach](Scoil_Naisiunta_An_Grainseach.md) grade 0
+- [Ardfinnan National School](Ardfinnan_National_School.md) grade 0
+- [St Marys Parochial School](St_Marys_Parochial_School.md) grade 0
+- [Scoil Naisiunta An Bhealaigh](Scoil_Naisiunta_An_Bhealaigh.md) grade 0
+- [Rossmore National School (Amalgamated See Note)](Rossmore_National_School_(Amalgamated_See_Note).md)
+- [Rosegreen National School](Rosegreen_National_School.md) grade 0
+- [Lisnamrock National School](Lisnamrock_National_School.md) grade 0
+- [Bunscoil Na Cathrach](Bunscoil_Na_Cathrach.md) grade 0
+- [Cullen National School](Cullen_National_School.md) grade 0
+- [Gaelscoil Charraig Na Siuire](Gaelscoil_Charraig_Na_Siuire.md) grade 0
+- [Naomh Padraig Senior](Naomh_Padraig_Senior.md) grade 0
+- [Naomh Padraig Junior](Naomh_Padraig_Junior.md) grade 0
+- [Dualla National School](Dualla_National_School.md) grade 0
+- [Knockavilla National School](Knockavilla_National_School.md) grade 0
+- [Emly National School](Emly_National_School.md) grade 0
+- [St Ailbe’S National School](St_Ailbe’S_National_School.md) grade 0
+- [St. Joseph’S School](St._Joseph’S_School.md) grade 0
+- [Killusty National School](Killusty_National_School.md) grade 0
+- [Nano Nagle National School](Nano_Nagle_National_School.md) grade 0
+- [Lisvernane National School](Lisvernane_National_School.md) grade 0
+- [Clonoulty Central National School](Clonoulty_Central_National_School.md) grade 0
+- [St Oliver Plunketts National School](St_Oliver_Plunketts_National_School.md) grade 0
+- [Hollyford National School](Hollyford_National_School.md) grade 0
+- [Gaile National School](Gaile_National_School.md) grade 0
+- [St Marys C Boys S Primary School](St_Marys_C_Boys_S_Primary_School.md) grade 0
+- [Killenaule National School](Killenaule_National_School.md) grade 0
+- [Kilross National School](Kilross_National_School.md) grade 0
+- [Shronell National School](Shronell_National_School.md) grade 0
+- [Lisronagh National School](Lisronagh_National_School.md) grade 0
+- [Mohober National School](Mohober_National_School.md) grade 0
+- [Monard National School](Monard_National_School.md) grade 0
+- [Gaelscoil Thiobraid Arann](Gaelscoil_Thiobraid_Arann.md) grade 0
+- [Mount Bruis National School](Mount_Bruis_National_School.md) grade 0
+- [Moyglass National School](Moyglass_National_School.md) grade 0
+- [Mullinahone National School](Mullinahone_National_School.md) grade 0
+- [St Josephs Primary School](St_Josephs_Primary_School.md) grade 0
+- [Scoil Mhuire Gan Smal](Scoil_Mhuire_Gan_Smal.md) grade 0
+- [Newtown National School](Newtown_National_School.md) grade 0
+- [St John The Baptist](St_John_The_Baptist.md) grade 0
+- [Holy Trinity National School](Holy_Trinity_National_School.md) grade 0
+- [Rossmore National School](Rossmore_National_School.md) grade 0
+- [St. Michael’S Girls‘ National School](St._Michael’S_Girls‘_National_School.md) grade 0
+- [Tankerstown National School](Tankerstown_National_School.md) grade 0
+- [Slieveardagh National School](Slieveardagh_National_School.md) grade 0
+- [Thomastown National School](Thomastown_National_School.md) grade 0
+- [Scoil Naisiunta Gort Na Huaighe](Scoil_Naisiunta_Gort_Na_Huaighe.md) grade 0
+- [Scoil Naisiunta Gleann Guail](Scoil_Naisiunta_Gleann_Guail.md) grade 0
+- [Scoil Naisiunta Baile An Iubhair](Scoil_Naisiunta_Baile_An_Iubhair.md) grade 0
+- [Scoil Naisiunta Baile Sluagh](Scoil_Naisiunta_Baile_Sluagh.md) grade 0
+- [Tipperary Jnr Bn S](Tipperary_Jnr_Bn_S.md) grade 0
+- [Scoil Na Mbraithre](Scoil_Na_Mbraithre.md) grade 0
+- [Upper Newtown National School](Upper_Newtown_National_School.md) grade 0
+- [C.B.S. Edmund Rice Secondary School](C.B.S._Edmund_Rice_Secondary_School.md) grade 0
+- [Rockwell College](Rockwell_College.md) grade 0
+- [Colaiste Dun Iascaigh](Colaiste_Dun_Iascaigh.md) grade 0
+- [Raheen College](Raheen_College.md) grade 0
+- [Cbs High School](Cbs_High_School.md) grade 0
+- [St. Anne's Secondary School](St._Anne's_Secondary_School.md) grade 0
+- [Cashel Community School](Cashel_Community_School.md) grade 0
+- [Scoil Ruain](Scoil_Ruain.md) grade 0
+- [Patrician Presentation Secondary School](Patrician_Presentation_Secondary_School.md) grade 0
+- [St. Alibe's School](St._Alibe's_School.md) grade 0
+- [The Abbey School](The_Abbey_School.md) grade 0
+- [Comeragh College](Comeragh_College.md) grade 0

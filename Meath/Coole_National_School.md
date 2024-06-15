@@ -1,0 +1,34 @@
+---
+layout: page
+title: Coole National School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Meath]](..)
+
+# Coole National School (Meath)
+
+**Address**: Garradice Kilcock Co Kildare.
+
+**Phone**: 046 9557538
+
+**Student Count**: 165
+
+**Website**: <http://www.coolens.ie>
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/Ireland/edit/main/./Meath/Coole_National_School.md). See also [rules for contribution](../../../contribution-rules/)

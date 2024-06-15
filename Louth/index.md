@@ -1,0 +1,121 @@
+---
+layout: page
+title: Schools in Louth
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All RoI districts]](..)
+
+# Schools in Louth
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [St. John's National School](St._John's_National_School.md) grade 0
+- [C.B.S. Primary](C.B.S._Primary.md) grade 0
+- [St. Joseph's Secondary School](St._Joseph's_Secondary_School.md) grade 0
+- [St. Joseph's Secondary School](St._Joseph's_Secondary_School.md) grade 0
+- [Scoil Mhuire Fatima](Scoil_Mhuire_Fatima.md) grade 0
+- [St Vincent's Secondary School](St_Vincent's_Secondary_School.md) grade 0
+- [St Malachys Boys National School](St_Malachys_Boys_National_School.md) grade 0
+- [Scoil Naisiunta Realt Na Mara](Scoil_Naisiunta_Realt_Na_Mara.md) grade 0
+- [Scoil Naisiunta Muire](Scoil_Naisiunta_Muire.md) grade 0
+- [St Olivers National School](St_Olivers_National_School.md) grade 0
+- [Scoil Naisiunta Realt Na Mara](Scoil_Naisiunta_Realt_Na_Mara.md) grade 0
+- [St. Joseph's Secondary School](St._Joseph's_Secondary_School.md) grade 0
+- [St. Joseph's Secondary School](St._Joseph's_Secondary_School.md) grade 0
+- [Scoil Naisiunta Muire](Scoil_Naisiunta_Muire.md) grade 0
+- [Scoil Mhuire Fatima](Scoil_Mhuire_Fatima.md) grade 0
+- [St. John's National School](St._John's_National_School.md) grade 0
+- [St Malachy's Infant School](St_Malachy's_Infant_School.md) grade 0
+- [St Malachys Boys National School](St_Malachys_Boys_National_School.md) grade 0
+- [St Malachys Girls National School](St_Malachys_Girls_National_School.md) grade 0
+- [St Brigid's School](St_Brigid's_School.md) grade 0
+- [Ardaghy National School](Ardaghy_National_School.md) grade 0
+- [Monastery National School](Monastery_National_School.md) grade 0
+- [St Mary's Bns](St_Mary's_Bns.md) grade 0
+- [Marymount School](Marymount_School.md) grade 0
+- [St Oliver's National School](St_Oliver's_National_School.md) grade 0
+- [Bay Estate N.S  Scoil Mhuire Na Ngael](Bay_Estate_N.S__Scoil_Mhuire_Na_Ngael.md) grade 0
+- [St Oliver Plunket National School](St_Oliver_Plunket_National_School.md) grade 0
+- [St Peter's National School](St_Peter's_National_School.md) grade 0
+- [St Brigids School - (Amalgamated - See Note)](St_Brigids_School_-_(Amalgamated_-_See_Note).md)
+- [St. Patricks Drogheda (Amalgamated - See Note](St._Patricks_Drogheda_(Amalgamated_-_See_Note.md) grade 0
+- [St Brigids & St Patricks National School](St_Brigids_&_St_Patricks_National_School.md) grade 0
+- [St Marys Parish Primary School](St_Marys_Parish_Primary_School.md) grade 0
+- [Callystown National School](Callystown_National_School.md) grade 0
+- [St Olivers National School](St_Olivers_National_School.md) grade 0
+- [Castletown Girls School](Castletown_Girls_School.md) grade 0
+- [C.B.S. Primary](C.B.S._Primary.md) grade 0
+- [Collon National School](Collon_National_School.md) grade 0
+- [Abacas Drogheda](Abacas_Drogheda.md) grade 0
+- [St Itas Special School](St_Itas_Special_School.md) grade 0
+- [St Finnians National School Dillonstown](St_Finnians_National_School_Dillonstown.md) grade 0
+- [Dromin National School](Dromin_National_School.md) grade 0
+- [St Peter’S National School](St_Peter’S_National_School.md) grade 0
+- [Scoil Mhuire Fatima](Scoil_Mhuire_Fatima.md) grade 0
+- [Dulargy Mixed National School](Dulargy_Mixed_National_School.md) grade 0
+- [Scoil Naisiunta Realt Na Mara](Scoil_Naisiunta_Realt_Na_Mara.md) grade 0
+- [Ardee Educate Together N.S](Ardee_Educate_Together_N.S.md) grade 0
+- [Realt Na Mara School](Realt_Na_Mara_School.md) grade 0
+- [Aston Village Educate Together National School](Aston_Village_Educate_Together_National_School.md) grade 0
+- [Redeemer Girls School](Redeemer_Girls_School.md) grade 0
+- [Redeemer Boys School](Redeemer_Boys_School.md) grade 0
+- [S.N Eoin Baiste](S.N_Eoin_Baiste.md) grade 0
+- [Faughart Community National School](Faughart_Community_National_School.md) grade 0
+- [Walshestown National School](Walshestown_National_School.md) grade 0
+- [Scoil Muire Na Trocaire](Scoil_Muire_Na_Trocaire.md) grade 0
+- [Bellurgan National School](Bellurgan_National_School.md) grade 0
+- [Dun Dealgan National School](Dun_Dealgan_National_School.md) grade 0
+- [Kilcurley Mixed National School](Kilcurley_Mixed_National_School.md) grade 0
+- [Scoil Phadraig Naofa Kilcurry](Scoil_Phadraig_Naofa_Kilcurry.md) grade 0
+- [Kilsaran National School](Kilsaran_National_School.md) grade 0
+- [Knockbridge National School](Knockbridge_National_School.md) grade 0
+- [Scoil Bhride Dunleer](Scoil_Bhride_Dunleer.md) grade 0
+- [St Mochta's National School](St_Mochta's_National_School.md) grade 0
+- [St. Fursey's National School](St._Fursey's_National_School.md) grade 0
+- [Realt Na Mara Sois.](Realt_Na_Mara_Sois..md) grade 0
+- [Harestown National School](Harestown_National_School.md) grade 0
+- [Monksland National School](Monksland_National_School.md) grade 0
+- [Le Cheile Educate Together](Le_Cheile_Educate_Together.md) grade 0
+- [Gaelscoil Dhun Dealgan](Gaelscoil_Dhun_Dealgan.md) grade 0
+- [Mullaghbouy National School](Mullaghbouy_National_School.md) grade 0
+- [Sandpit National School](Sandpit_National_School.md) grade 0
+- [St Nicholas’ National School](St_Nicholas’_National_School.md) grade 0
+- [Scoil Naisiunta Muire](Scoil_Naisiunta_Muire.md) grade 0
+- [St. Nicholas' Monastery National School](St._Nicholas'_Monastery_National_School.md) grade 0
+- [St. Kevin's National School](St._Kevin's_National_School.md) grade 0
+- [St. John's National School](St._John's_National_School.md) grade 0
+- [St Pauls Senior National School](St_Pauls_Senior_National_School.md) grade 0
+- [Scoil Dairbhre Mixed](Scoil_Dairbhre_Mixed.md) grade 0
+- [Rath Corr National School](Rath_Corr_National_School.md) grade 0
+- [Scoil Naomh Lorcan](Scoil_Naomh_Lorcan.md) grade 0
+- [Shelagh National School](Shelagh_National_School.md) grade 0
+- [Ballapousta National School](Ballapousta_National_School.md) grade 0
+- [Scoil San Nioclas](Scoil_San_Nioclas.md) grade 0
+- [Stonetown National School](Stonetown_National_School.md) grade 0
+- [St Joseph's Cbs](St_Joseph's_Cbs.md) grade 0
+- [Scoil Naisiunta Aonghusa](Scoil_Naisiunta_Aonghusa.md) grade 0
+- [Tallonstown National School](Tallonstown_National_School.md) grade 0
+- [Termonfeckin Mixed National School](Termonfeckin_Mixed_National_School.md) grade 0
+- [Dundalk Grammar School](Dundalk_Grammar_School.md) grade 0
+- [Scoil Naomh Buithe](Scoil_Naomh_Buithe.md) grade 0
+- [Scoil Naisiunta Tulach Aluinn](Scoil_Naisiunta_Tulach_Aluinn.md) grade 0
+- [St. Colmcille's National School](St._Colmcille's_National_School.md) grade 0
+- [Ardee Community School](Ardee_Community_School.md) grade 0
+- [Ballymakenny College](Ballymakenny_College.md) grade 0
+- [Scoil Ui Mhuiri](Scoil_Ui_Mhuiri.md) grade 0
+- [St Mary's Diocesan School](St_Mary's_Diocesan_School.md) grade 0
+- [Colaiste Rís](Colaiste_Rís.md) grade 0
+- [Pobailcholaiste Chú Chulainn](Pobailcholaiste_Chú_Chulainn.md) grade 0
+- [O Fiaich College](O_Fiaich_College.md) grade 0
+- [Dundalk Grammar School](Dundalk_Grammar_School.md) grade 0
+- [St Mary's College](St_Mary's_College.md) grade 0
+- [Our Ladys College](Our_Ladys_College.md) grade 0
+- [Drogheda Educate Together Secondary School](Drogheda_Educate_Together_Secondary_School.md) grade 0
+- [Drogheda Grammar School](Drogheda_Grammar_School.md) grade 0
+- [St. Joseph's Secondary School](St._Joseph's_Secondary_School.md) grade 0
+- [St Oliver's Community College](St_Oliver's_Community_College.md) grade 0
+- [Bush Post Primary School](Bush_Post_Primary_School.md) grade 0
+- [St Vincent's Secondary School](St_Vincent's_Secondary_School.md) grade 0
