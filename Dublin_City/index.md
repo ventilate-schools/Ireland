@@ -18,7 +18,7 @@ title: Schools in Dublin, Ireland and their ventilation status
 
 # Dublin City School Districts:
 
-Not so much districts, but by historical D1-D24 postal sub-division.
+Not so much districts, but sub-divided by historical D1-D24 postal designations.
 
 - [Dublin 1](D1/): 23 schools
 - [Dublin 2](D2/): 7 schools
