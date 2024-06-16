@@ -38,6 +38,10 @@ Published in 2021, [Guidance on Ventilation in Schools](https://www.gov.ie/en/pu
 
 A prior government page - <https://www.education.ie/en/Covid-19/> - was taken down in 2021, but [an archived version can be seen here](https://web.archive.org/web/20210109215847/https://www.education.ie/en/Covid-19/). Note: the page never talked of ventilation, air-filtration, etc.
 
+
+Ireland's Health and Safety Authority (HSA) published a [new code of practice for indoor air quality for 2023](
+https://www.hsa.ie/eng/publications_and_forms/publications/latest_publications/code_of_practice_for_indoor_air_quality.104818.shortcut.html), that's for workplaces **and classrooms**.
+
 # Irish School Districts:
 
 - [Carlow](Carlow/): 44 schools
