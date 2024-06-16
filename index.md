@@ -16,9 +16,11 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 ## In the Irish Examiner
 
-[Opinion: Sick of your kids being sick? Clean air in schools may be the answer](https://www.irishexaminer.com/opinion/commentanalysis/arid-41242243.html) SAT, 07 OCT, 2023 - JULIA COREY AND ORLA HEGARTY:
+[Opinion: Sick of your kids being sick? Clean air in schools may be the answer](https://www.irishexaminer.com/opinion/commentanalysis/arid-41242243.html) 
 
 ![](https://www.irishexaminer.com/cms_media/module_img/7581/3790981_1_articlelarge_Corsi-Rosenthal_20Box_20in_20Classroom_1_1_.jpg)
+
+(OCT, 2023 - JULIA COREY AND ORLA HEGARTY)
 
 ## Leaderboard
 
