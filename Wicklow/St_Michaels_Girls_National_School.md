@@ -14,7 +14,7 @@ title: St Michaels Girls National School
 
 **Student Count**: 388
 
-**Website**: <https://www.schooldays.ie/school/s-n-naomh-michael-rollnumber-13932A>
+**Website**: <https://stmichaelsgns.scoilnet.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 
