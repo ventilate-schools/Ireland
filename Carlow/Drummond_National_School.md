@@ -14,7 +14,7 @@ title: Drummond National School
 
 **Student Count**: 26
 
-**Website**: <https://www.schooldays.ie/school/st-brendans-n-s-rollnumber-17481N>
+**Website**: <https://www.drummondnationalschool.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

@@ -14,7 +14,7 @@ title: Ballyconnell National School
 
 **Student Count**: 195
 
-**Website**: <https://www.schooldays.ie/school/ballyconnell-n-s-rollnumber-00977B>
+**Website**: <https://ballyconnellns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

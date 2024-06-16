@@ -14,7 +14,7 @@ title: Ballon National School
 
 **Student Count**: 262
 
-**Website**: <https://www.schooldays.ie/school/s-n-peadar-agus-pol-rollnumber-14837L>
+**Website**: <http://www.ballonnationalschool.com>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

@@ -14,7 +14,7 @@ title: Baile An Chuilinn National School
 
 **Student Count**: 140
 
-**Website**: <https://www.schooldays.ie/school/baile-an-chuilinn-n-s-rollnumber-01116A>
+**Website**: <https://www.baileanchuilinnns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

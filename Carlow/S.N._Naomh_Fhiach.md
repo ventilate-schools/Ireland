@@ -14,7 +14,7 @@ title: S.N. Naomh Fhiach
 
 **Student Count**: 601
 
-**Website**: <https://www.schooldays.ie/school/s.n.-naomh-fhiach-rollnumber-19958C>
+**Website**: <https://www.stfiaccsns.ie/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 
