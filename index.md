@@ -14,6 +14,12 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
  When we say student and teacher health, we're wanting absences to go down too. If we lower transmission in schools, we reduce multi-generation transmission too, as kids bring infections home to parents. With lowered transmission, we also reduce long COVID, where the worst sufferers have disappeared from education and the workplace.
 
+## In the Irish Examiner
+
+[Opinion: Sick of your kids being sick? Clean air in schools may be the answer](https://www.irishexaminer.com/opinion/commentanalysis/arid-41242243.html) SAT, 07 OCT, 2023 - JULIA COREY AND ORLA HEGARTY:
+
+![](https://www.irishexaminer.com/cms_media/module_img/7581/3790981_1_articlelarge_Corsi-Rosenthal_20Box_20in_20Classroom_1_1_.jpg)
+
 ## Leaderboard
 
 1. to be announced
