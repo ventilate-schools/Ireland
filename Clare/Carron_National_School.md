@@ -14,7 +14,7 @@ title: Carron National School
 
 **Student Count**: 21
 
-**Website**: <https://www.schooldays.ie/school/s-n-cronain-nfa-an-carn-rollnumber-18190H>
+**Website**: <http://carronschool.com>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

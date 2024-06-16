@@ -14,7 +14,7 @@ title: Crosskeys Central National School
 
 **Student Count**: 102
 
-**Website**: <https://www.schooldays.ie/school/crosskeys-central-n-s-rollnumber-19432K>
+**Website**: <http://www.crosskeysns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

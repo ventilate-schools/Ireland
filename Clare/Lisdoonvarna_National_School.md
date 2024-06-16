@@ -14,7 +14,7 @@ title: Lisdoonvarna National School
 
 **Student Count**: 151
 
-**Website**: <https://www.schooldays.ie/school/lisdoonvarna-n-s-rollnumber-19700J>
+**Website**: <http://www.lisdoonvarnans.ie/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

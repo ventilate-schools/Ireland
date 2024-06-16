@@ -14,7 +14,7 @@ title: Clohanbeg National School
 
 **Student Count**: 12
 
-**Website**: <https://www.schooldays.ie/school/clohanbeg-n-s-rollnumber-11234M>
+**Website**: <https://clohanbegns.scoilnet.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

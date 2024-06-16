@@ -14,7 +14,7 @@ title: Sixmilebridge National School
 
 **Student Count**: 472
 
-**Website**: <https://www.schooldays.ie/school/sixmilebridge-n-s-rollnumber-16908S>
+**Website**: <http://www.sixmilebridgens.ie/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

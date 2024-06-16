@@ -14,7 +14,7 @@ title: Kilmaley National School
 
 **Student Count**: 101
 
-**Website**: <https://www.schooldays.ie/school/kilmaley-n-s-rollnumber-14468G>
+**Website**: <http://www.kilmaleyns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

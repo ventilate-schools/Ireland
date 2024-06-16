@@ -14,7 +14,7 @@ title: Lissycasey National School
 
 **Student Count**: 175
 
-**Website**: <https://www.schooldays.ie/school/lissycasey-n-s-rollnumber-18555V>
+**Website**: <http://www.lissycaseyns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

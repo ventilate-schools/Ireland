@@ -14,7 +14,7 @@ title: Gaelscoil An Teaghlaigh Naofa
 
 **Student Count**: 190
 
-**Website**: <https://www.schooldays.ie/school/gaelscoil-an-teaghlaigh-naofa-rollnumber-18292P>
+**Website**: <http://www.gaelscoilanteaghlaighnaofa.com>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

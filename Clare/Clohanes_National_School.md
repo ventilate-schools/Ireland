@@ -14,7 +14,7 @@ title: Clohanes National School
 
 **Student Count**: 23
 
-**Website**: <https://www.schooldays.ie/school/clohanes-n-s-rollnumber-13730L>
+**Website**: <https://clohanesns.scoilnet.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

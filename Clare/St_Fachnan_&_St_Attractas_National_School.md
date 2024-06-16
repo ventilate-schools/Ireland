@@ -14,7 +14,7 @@ title: St Fachnan & St Attractas National School
 
 **Student Count**: 70
 
-**Website**: <https://www.schooldays.ie/school/st-fachnan-&-st-attractas-n-s-rollnumber-20149W>
+**Website**: <http://www.kilfenorans.com/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

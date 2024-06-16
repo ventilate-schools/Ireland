@@ -14,7 +14,7 @@ title: Cara Junior School
 
 **Student Count**: 72
 
-**Website**: <https://www.schooldays.ie/school/cara-junior-school-rollnumber-20354A>
+**Website**: <https://www.carajuniorschool.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

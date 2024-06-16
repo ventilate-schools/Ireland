@@ -14,7 +14,7 @@ title: Tuamgraney National School
 
 **Student Count**: 54
 
-**Website**: <https://www.schooldays.ie/school/tomgraney-n-s-rollnumber-14571W>
+**Website**: <http://www.tuamgraneyns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

@@ -14,7 +14,7 @@ title: Cross National School (Closed)
 
 **Student Count**: 3
 
-**Website**: <https://www.schooldays.ie/school/cross-n-s-rollnumber-14111L>
+**Website**: <https://www.education.ie/en/find-a-school/School-Detail/?roll=14111L>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

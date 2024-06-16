@@ -14,7 +14,7 @@ title: Ennistymon Community School
 
 **Student Count**: 680
 
-**Website**: <https://www.schooldays.ie/school/ennistymon-community-school-rollnumber-91518F>
+**Website**: <https://www.ennistymoncs.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

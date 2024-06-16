@@ -14,7 +14,7 @@ title: Scoil Naisiunta Na Maighdine Muire
 
 **Student Count**: 125
 
-**Website**: <https://www.schooldays.ie/school/s-n-na-maighdine-muire-rollnumber-17801F>
+**Website**: <http://www.broadfordns.com/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

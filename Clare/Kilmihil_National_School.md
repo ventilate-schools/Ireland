@@ -14,7 +14,7 @@ title: Kilmihil National School
 
 **Student Count**: 95
 
-**Website**: <https://www.schooldays.ie/school/kilmihil-n.s.-rollnumber-13826B>
+**Website**: <http://www.kilmihilns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

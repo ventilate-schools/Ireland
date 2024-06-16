@@ -14,7 +14,7 @@ title: Carrigaholt Mixed National School
 
 **Student Count**: 35
 
-**Website**: <https://www.schooldays.ie/school/carrigaholt-mixed-n-s-rollnumber-18630J>
+**Website**: <http://www.carrigaholtns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

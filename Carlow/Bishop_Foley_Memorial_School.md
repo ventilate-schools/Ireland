@@ -14,7 +14,7 @@ title: Bishop Foley Memorial School
 
 **Student Count**: 207
 
-**Website**: <https://www.schooldays.ie/school/bishop-foley-memorial-school-rollnumber-17053P>
+**Website**: <https://bishopfoleyschool.ie/>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

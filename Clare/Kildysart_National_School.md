@@ -14,7 +14,7 @@ title: Kildysart National School
 
 **Student Count**: 118
 
-**Website**: <https://www.schooldays.ie/school/kildysart-n-s-rollnumber-15301V>
+**Website**: <http://www.kildysartns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

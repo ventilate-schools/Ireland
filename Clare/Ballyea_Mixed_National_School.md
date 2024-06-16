@@ -14,7 +14,7 @@ title: Ballyea Mixed National School
 
 **Student Count**: 223
 
-**Website**: <https://www.schooldays.ie/school/ballyea-mixed-n-s-rollnumber-13418J>
+**Website**: <http://www.ballyeans.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

@@ -14,7 +14,7 @@ title: Parteen National School
 
 **Student Count**: 287
 
-**Website**: <https://www.schooldays.ie/school/sn-an-phairtin-mixed-rollnumber-16946D>
+**Website**: <http://www.parteenschool.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 

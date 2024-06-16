@@ -14,7 +14,7 @@ title: Ballyconnell Mxd National School
 
 **Student Count**: 208
 
-**Website**: <https://www.schooldays.ie/school/ballyconnell-mxd-n-s-rollnumber-16093W>
+**Website**: <http://ballyconnellns.ie>
 
 **School's overall airborne virus protection grade (0-5)**: 0
 
