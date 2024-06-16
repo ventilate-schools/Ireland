@@ -4,9 +4,9 @@ title: St Joseph Of Cluny
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Joseph Of Cluny (Dublin South County Dublin)
+# St Joseph Of Cluny (South County Dublin)
 
 **Address**: Bellevue Park Ballinclea Rd Killiney
 

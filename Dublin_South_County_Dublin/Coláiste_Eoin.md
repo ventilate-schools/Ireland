@@ -4,9 +4,9 @@ title: Coláiste Eoin
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Coláiste Eoin (Dublin South County Dublin)
+# Coláiste Eoin (South County Dublin)
 
 **Address**: Baile An Bhóthair Bóthair Stigh Lorgan Co Atha Cliath
 

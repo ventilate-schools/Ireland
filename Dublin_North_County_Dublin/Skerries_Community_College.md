@@ -4,9 +4,9 @@ title: Skerries Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Skerries Community College (Dublin North County Dublin)
+# Skerries Community College (North County Dublin)
 
 **Address**: Skerries Co. Dublin
 

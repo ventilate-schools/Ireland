@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schools in Tipperary S.R
+title: Schools in Tipperary South Riding (S.R)
 ---
 # Navigation
 
 [[All countries/states/provinces]](../..) > [[All RoI districts]](..)
 
-# Schools in Tipperary S.R
+# Schools in Tipperary South Riding (S.R)
 
 {% include_relative grade.html %}
 

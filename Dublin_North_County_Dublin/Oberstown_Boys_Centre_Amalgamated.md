@@ -4,9 +4,9 @@ title: Oberstown Boys Centre Amalgamated
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Oberstown Boys Centre Amalgamated (Dublin North County Dublin)
+# Oberstown Boys Centre Amalgamated (North County Dublin)
 
 **Address**: Lusk Co Dublin
 

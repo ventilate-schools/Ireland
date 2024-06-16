@@ -4,9 +4,9 @@ title: Malahide Portmarnock Etss
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Malahide Portmarnock Etss (Dublin North County Dublin)
+# Malahide Portmarnock Etss (North County Dublin)
 
 **Address**: C/O Riasc Centre, Feltrim Road, Kinsealy
 

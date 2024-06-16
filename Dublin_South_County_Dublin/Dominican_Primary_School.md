@@ -4,9 +4,9 @@ title: Dominican Primary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Dominican Primary School (Dublin South County Dublin)
+# Dominican Primary School (South County Dublin)
 
 **Address**: Convent Road, Dun Laoghaire, Co. Dublin
 

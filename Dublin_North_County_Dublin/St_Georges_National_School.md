@@ -4,9 +4,9 @@ title: St Georges National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Georges National School (Dublin North County Dublin)
+# St Georges National School (North County Dublin)
 
 **Address**: Naul Road< Balbriggan Co Dublin
 

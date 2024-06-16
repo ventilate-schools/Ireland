@@ -4,9 +4,9 @@ title: St Thomas Jns Esker
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# St Thomas Jns Esker (Dublin West County Dublin)
+# St Thomas Jns Esker (West County Dublin)
 
 **Address**: St Thomas Ns Esker Lucan Co Dublin
 

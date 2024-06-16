@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schools in Dublin West County Dublin
+title: Schools in West County Dublin
 ---
 # Navigation
 
 [[All countries/states/provinces]](../..) > [[All RoI districts]](..)
 
-# Schools in Dublin West County Dublin
+# Schools in West County Dublin
 
 {% include_relative grade.html %}
 

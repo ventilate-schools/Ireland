@@ -4,9 +4,9 @@ title: Sion Hill College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Sion Hill College (Dublin South County Dublin)
+# Sion Hill College (South County Dublin)
 
 **Address**: Sion Hill Blackrock Co Dublin
 

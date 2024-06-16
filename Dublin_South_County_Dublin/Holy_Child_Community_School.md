@@ -4,9 +4,9 @@ title: Holy Child Community School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Holy Child Community School (Dublin South County Dublin)
+# Holy Child Community School (South County Dublin)
 
 **Address**: Pearse St Sallynoggin Co Dublin
 

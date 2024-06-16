@@ -4,9 +4,9 @@ title: Ballyboughal National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Ballyboughal National School (Dublin North County Dublin)
+# Ballyboughal National School (North County Dublin)
 
 **Address**: Ballyboghill
 

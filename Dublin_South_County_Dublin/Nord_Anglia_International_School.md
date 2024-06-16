@@ -4,9 +4,9 @@ title: Nord Anglia International School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Nord Anglia International School (Dublin South County Dublin)
+# Nord Anglia International School (South County Dublin)
 
 **Address**: Building 2, South County Business Park, Leopardstown
 

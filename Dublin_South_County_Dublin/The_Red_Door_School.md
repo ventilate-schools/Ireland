@@ -4,9 +4,9 @@ title: The Red Door School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# The Red Door School (Dublin South County Dublin)
+# The Red Door School (South County Dublin)
 
 **Address**: Monkstown Grove, Monkstown Avenue, Co. Dublin
 

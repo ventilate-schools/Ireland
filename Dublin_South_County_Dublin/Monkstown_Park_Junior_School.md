@@ -4,9 +4,9 @@ title: Monkstown Park Junior School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Monkstown Park Junior School (Dublin South County Dublin)
+# Monkstown Park Junior School (South County Dublin)
 
 **Address**: Monkstown Park, Upper Mounttown Road, Monkstown,
 

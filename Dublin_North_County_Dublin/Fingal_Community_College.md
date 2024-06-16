@@ -4,9 +4,9 @@ title: Fingal Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Fingal Community College (Dublin North County Dublin)
+# Fingal Community College (North County Dublin)
 
 **Address**: Seatown Road Swords Co Dublin
 

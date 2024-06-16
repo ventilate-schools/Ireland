@@ -4,9 +4,9 @@ title: The Childrens House
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# The Childrens House (Dublin South County Dublin)
+# The Childrens House (South County Dublin)
 
 **Address**: Thornhill, Lwr Kilmacud Road, Stillorgan,
 

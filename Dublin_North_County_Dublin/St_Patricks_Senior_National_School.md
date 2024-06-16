@@ -4,9 +4,9 @@ title: St Patricks Senior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Patricks Senior National School (Dublin North County Dublin)
+# St Patricks Senior National School (North County Dublin)
 
 **Address**: Skerries Co Dublin
 

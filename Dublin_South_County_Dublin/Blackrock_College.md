@@ -4,9 +4,9 @@ title: Blackrock College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Blackrock College (Dublin South County Dublin)
+# Blackrock College (South County Dublin)
 
 **Address**: Blackrock Co Dublin
 

@@ -4,9 +4,9 @@ title: St Oliver Plunkett
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Oliver Plunkett (Dublin North County Dublin)
+# St Oliver Plunkett (North County Dublin)
 
 **Address**: Grove Road Malahide Co Dublin
 

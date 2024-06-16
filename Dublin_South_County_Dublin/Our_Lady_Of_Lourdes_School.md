@@ -4,9 +4,9 @@ title: Our Lady Of Lourdes School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Our Lady Of Lourdes School (Dublin South County Dublin)
+# Our Lady Of Lourdes School (South County Dublin)
 
 **Address**: Rochestown Ave Dun Laoghaire Co Dublin
 

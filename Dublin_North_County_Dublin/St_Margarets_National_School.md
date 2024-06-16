@@ -4,9 +4,9 @@ title: St Margarets National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Margarets National School (Dublin North County Dublin)
+# St Margarets National School (North County Dublin)
 
 **Address**: St Margarets Co.Dublin
 

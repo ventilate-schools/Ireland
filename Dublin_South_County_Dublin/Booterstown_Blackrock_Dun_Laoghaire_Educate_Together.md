@@ -4,9 +4,9 @@ title: Booterstown Blackrock Dun Laoghaire Educate Together
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Booterstown Blackrock Dun Laoghaire Educate Together (Dublin South County Dublin)
+# Booterstown Blackrock Dun Laoghaire Educate Together (South County Dublin)
 
 **Address**: Booterstown, Dun Laoghaire
 

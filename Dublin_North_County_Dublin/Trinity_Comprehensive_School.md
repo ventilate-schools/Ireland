@@ -4,9 +4,9 @@ title: Trinity Comprehensive School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Trinity Comprehensive School (Dublin North County Dublin)
+# Trinity Comprehensive School (North County Dublin)
 
 **Address**: Ballymun Road
 

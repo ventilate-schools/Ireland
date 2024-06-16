@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schools in Dublin North County Dublin
+title: Schools in North County Dublin
 ---
 # Navigation
 
 [[All countries/states/provinces]](../..) > [[All RoI districts]](..)
 
-# Schools in Dublin North County Dublin
+# Schools in North County Dublin
 
 {% include_relative grade.html %}
 

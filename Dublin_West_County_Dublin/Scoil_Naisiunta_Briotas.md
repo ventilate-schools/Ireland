@@ -4,9 +4,9 @@ title: Scoil Naisiunta Briotas
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Scoil Naisiunta Briotas (Dublin West County Dublin)
+# Scoil Naisiunta Briotas (West County Dublin)
 
 **Address**: Brittas Co Dublin
 

@@ -4,9 +4,9 @@ title: Holy Child Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Holy Child Secondary School (Dublin South County Dublin)
+# Holy Child Secondary School (South County Dublin)
 
 **Address**: Military Road Killiney Co. Dublin
 

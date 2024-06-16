@@ -4,9 +4,9 @@ title: St Raphaela's Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Raphaela's Secondary School (Dublin South County Dublin)
+# St Raphaela's Secondary School (South County Dublin)
 
 **Address**: Upper Kilmacud Road Stillorgan Co Dublin
 

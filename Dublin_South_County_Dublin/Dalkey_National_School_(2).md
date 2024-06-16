@@ -4,9 +4,9 @@ title: Dalkey National School (2)
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Dalkey National School (2) (Dublin South County Dublin)
+# Dalkey National School (2) (South County Dublin)
 
 **Address**: Dalkey Co Dublin
 

@@ -4,9 +4,9 @@ title: St. Andrew's College Junior School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St. Andrew's College Junior School (Dublin South County Dublin)
+# St. Andrew's College Junior School (South County Dublin)
 
 **Address**: Booterstown Ave, Blackrock
 

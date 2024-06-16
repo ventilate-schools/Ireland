@@ -4,9 +4,9 @@ title: Lucan Community National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Lucan Community National School (Dublin West County Dublin)
+# Lucan Community National School (West County Dublin)
 
 **Address**: Tor An Ri Walk, Balgaddy Road, Lucan, Co. Dublin
 

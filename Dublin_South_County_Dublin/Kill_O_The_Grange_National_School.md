@@ -4,9 +4,9 @@ title: Kill O The Grange National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Kill O The Grange National School (Dublin South County Dublin)
+# Kill O The Grange National School (South County Dublin)
 
 **Address**: Deansgrange Co Dublin
 

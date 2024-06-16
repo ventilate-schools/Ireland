@@ -4,9 +4,9 @@ title: Dalkey School Project
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Dalkey School Project (Dublin South County Dublin)
+# Dalkey School Project (South County Dublin)
 
 **Address**: Glenageary Lodge Glenageary Co Dublin
 

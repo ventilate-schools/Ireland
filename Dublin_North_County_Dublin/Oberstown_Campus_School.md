@@ -4,9 +4,9 @@ title: Oberstown Campus School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Oberstown Campus School (Dublin North County Dublin)
+# Oberstown Campus School (North County Dublin)
 
 **Address**: Lusk, Co Dublin
 

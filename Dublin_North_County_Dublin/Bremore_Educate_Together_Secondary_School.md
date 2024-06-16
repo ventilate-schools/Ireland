@@ -4,9 +4,9 @@ title: Bremore Educate Together Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Bremore Educate Together Secondary School (Dublin North County Dublin)
+# Bremore Educate Together Secondary School (North County Dublin)
 
 **Address**: Naul Road, Balbriggan
 

@@ -4,9 +4,9 @@ title: St. Anne's Private School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St. Anne's Private School (Dublin South County Dublin)
+# St. Anne's Private School (South County Dublin)
 
 **Address**: 36 Clarinda Park East, Dun Laoghaire
 

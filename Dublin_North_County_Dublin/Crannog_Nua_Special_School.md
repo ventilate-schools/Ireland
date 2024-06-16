@@ -4,9 +4,9 @@ title: Crannog Nua Special School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Crannog Nua Special School (Dublin North County Dublin)
+# Crannog Nua Special School (North County Dublin)
 
 **Address**: C/O The High Support Unit Portrane Co Dublin
 

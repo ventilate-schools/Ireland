@@ -4,9 +4,9 @@ title: Scoil Mhuire Mxd
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Scoil Mhuire Mxd (Dublin North County Dublin)
+# Scoil Mhuire Mxd (North County Dublin)
 
 **Address**: Tucketts Lane Howth Co Dublin
 

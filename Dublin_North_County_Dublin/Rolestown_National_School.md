@@ -4,9 +4,9 @@ title: Rolestown National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Rolestown National School (Dublin North County Dublin)
+# Rolestown National School (North County Dublin)
 
 **Address**: Rolestown East, Swords Co Dublin
 

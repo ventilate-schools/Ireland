@@ -4,9 +4,9 @@ title: Sn Naomh Treasa
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Sn Naomh Treasa (Dublin North County Dublin)
+# Sn Naomh Treasa (North County Dublin)
 
 **Address**: Baile Brigin Co Ath Cliath
 

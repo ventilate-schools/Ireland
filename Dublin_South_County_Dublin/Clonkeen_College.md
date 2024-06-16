@@ -4,9 +4,9 @@ title: Clonkeen College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Clonkeen College (Dublin South County Dublin)
+# Clonkeen College (South County Dublin)
 
 **Address**: Clonkeen Road Blackrock Co Dublin
 

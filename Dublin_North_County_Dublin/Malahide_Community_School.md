@@ -4,9 +4,9 @@ title: Malahide Community School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Malahide Community School (Dublin North County Dublin)
+# Malahide Community School (North County Dublin)
 
 **Address**: Broomfield Malahide Co. Dublin
 

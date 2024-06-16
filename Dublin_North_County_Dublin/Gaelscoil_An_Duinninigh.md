@@ -4,9 +4,9 @@ title: Gaelscoil An Duinninigh
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Gaelscoil An Duinninigh (Dublin North County Dublin)
+# Gaelscoil An Duinninigh (North County Dublin)
 
 **Address**: Draighnean Feltrim Sord Co Baile Atha Cliath
 

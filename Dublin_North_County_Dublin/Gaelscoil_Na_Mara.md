@@ -4,9 +4,9 @@ title: Gaelscoil Na Mara
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Gaelscoil Na Mara (Dublin North County Dublin)
+# Gaelscoil Na Mara (North County Dublin)
 
 **Address**: Portrane Road, Donabate
 

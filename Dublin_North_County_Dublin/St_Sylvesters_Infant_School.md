@@ -4,9 +4,9 @@ title: St Sylvesters Infant School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Sylvesters Infant School (Dublin North County Dublin)
+# St Sylvesters Infant School (North County Dublin)
 
 **Address**: Malahide Co Dublin
 

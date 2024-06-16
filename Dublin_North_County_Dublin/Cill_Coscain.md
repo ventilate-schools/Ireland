@@ -4,9 +4,9 @@ title: Cill Coscain
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Cill Coscain (Dublin North County Dublin)
+# Cill Coscain (North County Dublin)
 
 **Address**: The Ward Co Dublin
 

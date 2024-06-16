@@ -4,9 +4,9 @@ title: Scoil Moibhi
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Scoil Moibhi (Dublin North County Dublin)
+# Scoil Moibhi (North County Dublin)
 
 **Address**: Milverton Skerries Co Dublin
 

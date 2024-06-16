@@ -4,9 +4,9 @@ title: Oatlands Primary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Oatlands Primary School (Dublin South County Dublin)
+# Oatlands Primary School (South County Dublin)
 
 **Address**: Mount Merrion Blackrock Co Dublin 134
 

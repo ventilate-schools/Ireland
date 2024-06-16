@@ -4,9 +4,9 @@ title: Gaelscoil Naomh Padraig
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Gaelscoil Naomh Padraig (Dublin West County Dublin)
+# Gaelscoil Naomh Padraig (West County Dublin)
 
 **Address**: Leamhcan Co Baile Atha Cliath
 

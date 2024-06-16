@@ -4,9 +4,9 @@ title: Ardgillan Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Ardgillan Community College (Dublin North County Dublin)
+# Ardgillan Community College (North County Dublin)
 
 **Address**: Castlelands, Balbriggan, Co Dublin
 

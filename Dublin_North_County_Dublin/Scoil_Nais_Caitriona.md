@@ -4,9 +4,9 @@ title: Scoil Nais Caitriona
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Scoil Nais Caitriona (Dublin North County Dublin)
+# Scoil Nais Caitriona (North County Dublin)
 
 **Address**: Kenure Rush Co Dublin
 

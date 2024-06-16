@@ -4,9 +4,9 @@ title: Generic Teaching Teacher Service
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Generic Teaching Teacher Service (Dublin South County Dublin)
+# Generic Teaching Teacher Service (South County Dublin)
 
 **Address**: Talbot Hse Talbot St Dublin
 

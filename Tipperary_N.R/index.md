@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schools in Tipperary N.R
+title: Schools in Tipperary North Riding (N.R)
 ---
 # Navigation
 
 [[All countries/states/provinces]](../..) > [[All RoI districts]](..)
 
-# Schools in Tipperary N.R
+# Schools in Tipperary North Riding (N.R)
 
 {% include_relative grade.html %}
 

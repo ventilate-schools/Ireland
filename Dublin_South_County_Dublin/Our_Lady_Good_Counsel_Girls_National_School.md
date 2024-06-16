@@ -4,9 +4,9 @@ title: Our Lady Good Counsel Girls National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Our Lady Good Counsel Girls National School (Dublin South County Dublin)
+# Our Lady Good Counsel Girls National School (South County Dublin)
 
 **Address**: Johnstown Dun Laoghaire Co Dublin
 

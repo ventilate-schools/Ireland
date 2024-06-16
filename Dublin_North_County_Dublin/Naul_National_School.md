@@ -4,9 +4,9 @@ title: Naul National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Naul National School (Dublin North County Dublin)
+# Naul National School (North County Dublin)
 
 **Address**: The Naul Co Dublin
 

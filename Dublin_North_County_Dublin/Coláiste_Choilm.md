@@ -4,9 +4,9 @@ title: Coláiste Choilm
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Coláiste Choilm (Dublin North County Dublin)
+# Coláiste Choilm (North County Dublin)
 
 **Address**: Dublin Road Swords Co Dublin
 

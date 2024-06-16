@@ -4,9 +4,9 @@ title: St Annes Mxd National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Annes Mxd National School (Dublin South County Dublin)
+# St Annes Mxd National School (South County Dublin)
 
 **Address**: Stonebridge Road Shankill Co Dublin
 

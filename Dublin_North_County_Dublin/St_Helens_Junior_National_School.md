@@ -4,9 +4,9 @@ title: St Helens Junior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Helens Junior National School (Dublin North County Dublin)
+# St Helens Junior National School (North County Dublin)
 
 **Address**: Lime Tree Avenue, Portmarnock, Co Dublin
 

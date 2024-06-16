@@ -4,9 +4,9 @@ title: Setanta Special School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Setanta Special School (Dublin South County Dublin)
+# Setanta Special School (South County Dublin)
 
 **Address**: Limekiln Rd, Greenhills, Dublin 12
 

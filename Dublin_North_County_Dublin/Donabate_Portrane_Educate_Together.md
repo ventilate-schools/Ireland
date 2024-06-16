@@ -4,9 +4,9 @@ title: Donabate Portrane Educate Together
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Donabate Portrane Educate Together (Dublin North County Dublin)
+# Donabate Portrane Educate Together (North County Dublin)
 
 **Address**: Ballisk Common, Beaverstown Road, Donabate Co Dublin
 

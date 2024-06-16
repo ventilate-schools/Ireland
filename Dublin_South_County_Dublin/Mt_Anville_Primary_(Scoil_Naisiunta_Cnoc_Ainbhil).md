@@ -4,9 +4,9 @@ title: Mt Anville Primary (Scoil Naisiunta Cnoc Ainbhil)
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Mt Anville Primary (Scoil Naisiunta Cnoc Ainbhil) (Dublin South County Dublin)
+# Mt Anville Primary (Scoil Naisiunta Cnoc Ainbhil) (South County Dublin)
 
 **Address**: Lr Kilmacud Rd Stillorgan/Blackrock Co Dublin.
 

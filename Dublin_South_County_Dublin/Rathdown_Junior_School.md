@@ -4,9 +4,9 @@ title: Rathdown Junior School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Rathdown Junior School (Dublin South County Dublin)
+# Rathdown Junior School (South County Dublin)
 
 **Address**: Upper Glenageary Rd, Dun Laoghaire
 

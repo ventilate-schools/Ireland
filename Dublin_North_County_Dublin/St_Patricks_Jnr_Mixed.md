@@ -4,9 +4,9 @@ title: St Patricks Jnr Mixed
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Patricks Jnr Mixed (Dublin North County Dublin)
+# St Patricks Jnr Mixed (North County Dublin)
 
 **Address**: Skerries Co Dublin 137
 

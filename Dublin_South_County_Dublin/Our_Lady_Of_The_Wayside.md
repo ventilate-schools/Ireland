@@ -4,9 +4,9 @@ title: Our Lady Of The Wayside
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Our Lady Of The Wayside (Dublin South County Dublin)
+# Our Lady Of The Wayside (South County Dublin)
 
 **Address**: Kilternan Co Dublin
 

@@ -4,9 +4,9 @@ title: St Benildus College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Benildus College (Dublin South County Dublin)
+# St Benildus College (South County Dublin)
 
 **Address**: Upper Kilmacud Rd Stillorgan Blackrock
 

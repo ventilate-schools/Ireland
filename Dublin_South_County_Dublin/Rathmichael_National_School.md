@@ -4,9 +4,9 @@ title: Rathmichael National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Rathmichael National School (Dublin South County Dublin)
+# Rathmichael National School (South County Dublin)
 
 **Address**: Rathmichael Shankill Co Dublin
 

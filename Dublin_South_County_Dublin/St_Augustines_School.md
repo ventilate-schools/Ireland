@@ -4,9 +4,9 @@ title: St Augustines School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Augustines School (Dublin South County Dublin)
+# St Augustines School (South County Dublin)
 
 **Address**: Obelisk Park Blackrock Co Dublin
 

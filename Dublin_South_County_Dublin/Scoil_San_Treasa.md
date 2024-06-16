@@ -4,9 +4,9 @@ title: Scoil San Treasa
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Scoil San Treasa (Dublin South County Dublin)
+# Scoil San Treasa (South County Dublin)
 
 **Address**: The Rise, Mount Merrion, Co Dublin
 

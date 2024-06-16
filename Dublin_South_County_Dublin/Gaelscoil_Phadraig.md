@@ -4,9 +4,9 @@ title: Gaelscoil Phadraig
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Gaelscoil Phadraig (Dublin South County Dublin)
+# Gaelscoil Phadraig (South County Dublin)
 
 **Address**: Ascaill Shileann Baile Breac Co Atha Cliath
 

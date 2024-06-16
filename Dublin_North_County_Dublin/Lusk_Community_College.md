@@ -4,9 +4,9 @@ title: Lusk Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Lusk Community College (Dublin North County Dublin)
+# Lusk Community College (North County Dublin)
 
 **Address**: Raheny Lane, Rathmore Road, Lusk, Co. Dublin
 

@@ -4,9 +4,9 @@ title: Portmarnock Community School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Portmarnock Community School (Dublin North County Dublin)
+# Portmarnock Community School (North County Dublin)
 
 **Address**: Carrickhill Road Portmarnock Co Dublin
 

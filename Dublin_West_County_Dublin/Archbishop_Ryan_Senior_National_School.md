@@ -4,9 +4,9 @@ title: Archbishop Ryan Senior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Archbishop Ryan Senior National School (Dublin West County Dublin)
+# Archbishop Ryan Senior National School (West County Dublin)
 
 **Address**: Balgaddy Lucan Co Dublin
 

@@ -4,9 +4,9 @@ title: St Mary's Boys National School Lucan
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# St Mary's Boys National School Lucan (Dublin West County Dublin)
+# St Mary's Boys National School Lucan (West County Dublin)
 
 **Address**: Lucan Co Dublin
 

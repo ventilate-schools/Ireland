@@ -4,9 +4,9 @@ title: Guardian Angels National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Guardian Angels National School (Dublin South County Dublin)
+# Guardian Angels National School (South County Dublin)
 
 **Address**: Newtownpark Ave Blackrock Co Dublin
 

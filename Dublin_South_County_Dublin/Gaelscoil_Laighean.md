@@ -4,9 +4,9 @@ title: Gaelscoil Laighean
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Gaelscoil Laighean (Dublin South County Dublin)
+# Gaelscoil Laighean (South County Dublin)
 
 **Address**: Bóthar Chnoc Ainbhil, Baile Átha Cliath 14
 

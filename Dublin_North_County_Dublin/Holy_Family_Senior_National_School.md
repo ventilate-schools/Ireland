@@ -4,9 +4,9 @@ title: Holy Family Senior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Holy Family Senior National School (Dublin North County Dublin)
+# Holy Family Senior National School (North County Dublin)
 
 **Address**: Forest Fields River Valley Swords Co Dublin
 

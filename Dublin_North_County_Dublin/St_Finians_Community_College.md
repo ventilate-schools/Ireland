@@ -4,9 +4,9 @@ title: St Finians Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Finians Community College (Dublin North County Dublin)
+# St Finians Community College (North County Dublin)
 
 **Address**: Castlefarm, Swords Co Dublin
 

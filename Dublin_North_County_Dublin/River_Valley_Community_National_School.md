@@ -4,9 +4,9 @@ title: River Valley Community National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# River Valley Community National School (Dublin North County Dublin)
+# River Valley Community National School (North County Dublin)
 
 **Address**: 85-87 Main Street, Swords, Co Dublin
 

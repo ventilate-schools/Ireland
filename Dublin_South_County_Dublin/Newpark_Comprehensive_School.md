@@ -4,9 +4,9 @@ title: Newpark Comprehensive School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Newpark Comprehensive School (Dublin South County Dublin)
+# Newpark Comprehensive School (South County Dublin)
 
 **Address**: Newtown Park Avenue Blackrock Co Dublin
 

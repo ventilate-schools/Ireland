@@ -4,9 +4,9 @@ title: Balrothery National School (Oilibhear Naofa)
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Balrothery National School (Oilibhear Naofa) (Dublin North County Dublin)
+# Balrothery National School (Oilibhear Naofa) (North County Dublin)
 
 **Address**: Balrothery, Balbriggan, Co Dublin
 

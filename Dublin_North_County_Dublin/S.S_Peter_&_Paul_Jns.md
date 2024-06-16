@@ -4,9 +4,9 @@ title: S.S Peter & Paul Jns
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# S.S Peter & Paul Jns (Dublin North County Dublin)
+# S.S Peter & Paul Jns (North County Dublin)
 
 **Address**: Balbriggan Co Dublin
 

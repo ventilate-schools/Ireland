@@ -4,9 +4,9 @@ title: Scoil Naisiunta C Naomh Padraig
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Scoil Naisiunta C Naomh Padraig (Dublin North County Dublin)
+# Scoil Naisiunta C Naomh Padraig (North County Dublin)
 
 **Address**: Donabate Co Dublin
 

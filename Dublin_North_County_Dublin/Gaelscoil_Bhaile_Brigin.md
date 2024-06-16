@@ -4,9 +4,9 @@ title: Gaelscoil Bhaile Brigin
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Gaelscoil Bhaile Brigin (Dublin North County Dublin)
+# Gaelscoil Bhaile Brigin (North County Dublin)
 
 **Address**: Castlelands, Balbriggan, County Dublin
 

@@ -4,9 +4,9 @@ title: Ballyowen Meadows
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Ballyowen Meadows (Dublin South County Dublin)
+# Ballyowen Meadows (South County Dublin)
 
 **Address**: Loughlinstown Drive, Dun Laoghaire, Co Dublin
 

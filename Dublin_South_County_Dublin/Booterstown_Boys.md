@@ -4,9 +4,9 @@ title: Booterstown Boys
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Booterstown Boys (Dublin South County Dublin)
+# Booterstown Boys (South County Dublin)
 
 **Address**: Booterstown Blackrock Co Dublin
 

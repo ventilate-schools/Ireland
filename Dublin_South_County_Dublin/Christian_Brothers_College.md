@@ -4,9 +4,9 @@ title: Christian Brothers College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Christian Brothers College (Dublin South County Dublin)
+# Christian Brothers College (South County Dublin)
 
 **Address**: Monkstown Park Dun Laoghaire Co Dublin
 

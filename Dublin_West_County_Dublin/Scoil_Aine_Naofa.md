@@ -4,9 +4,9 @@ title: Scoil Aine Naofa
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Scoil Aine Naofa (Dublin West County Dublin)
+# Scoil Aine Naofa (West County Dublin)
 
 **Address**: Esker Lucan Co Dublin
 

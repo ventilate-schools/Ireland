@@ -4,9 +4,9 @@ title: Holy Family Junior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Holy Family Junior National School (Dublin North County Dublin)
+# Holy Family Junior National School (North County Dublin)
 
 **Address**: Forest Fields Swords Co Dublin
 

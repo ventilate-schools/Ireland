@@ -4,9 +4,9 @@ title: Gaelscoil Ros Eo
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Gaelscoil Ros Eo (Dublin North County Dublin)
+# Gaelscoil Ros Eo (North County Dublin)
 
 **Address**: St. Maur's Gaa, Rush, Co Dublin
 

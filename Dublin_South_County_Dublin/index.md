@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schools in Dublin South County Dublin
+title: Schools in South County Dublin
 ---
 # Navigation
 
 [[All countries/states/provinces]](../..) > [[All RoI districts]](..)
 
-# Schools in Dublin South County Dublin
+# Schools in South County Dublin
 
 {% include_relative grade.html %}
 

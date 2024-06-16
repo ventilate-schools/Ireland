@@ -4,9 +4,9 @@ title: John Scottus Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# John Scottus Secondary School (Dublin South County Dublin)
+# John Scottus Secondary School (South County Dublin)
 
 **Address**: Old Conna, Ferndale Road, Rathmichael, Co. Dublin.
 

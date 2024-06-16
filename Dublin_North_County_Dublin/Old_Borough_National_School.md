@@ -4,9 +4,9 @@ title: Old Borough National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Old Borough National School (Dublin North County Dublin)
+# Old Borough National School (North County Dublin)
 
 **Address**: Church Road, Swords, Co Dublin
 

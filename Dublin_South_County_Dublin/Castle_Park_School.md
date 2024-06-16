@@ -4,9 +4,9 @@ title: Castle Park School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Castle Park School (Dublin South County Dublin)
+# Castle Park School (South County Dublin)
 
 **Address**: Castle Park Road, Dalkey
 

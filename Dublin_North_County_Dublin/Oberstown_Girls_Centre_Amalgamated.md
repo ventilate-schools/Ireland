@@ -4,9 +4,9 @@ title: Oberstown Girls Centre Amalgamated
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Oberstown Girls Centre Amalgamated (Dublin North County Dublin)
+# Oberstown Girls Centre Amalgamated (North County Dublin)
 
 **Address**: Oberstown Lusk Co Dublin
 

@@ -4,9 +4,9 @@ title: Booterstown National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Booterstown National School (Dublin South County Dublin)
+# Booterstown National School (South County Dublin)
 
 **Address**: Cross Ave Blackrock Co Dublin
 

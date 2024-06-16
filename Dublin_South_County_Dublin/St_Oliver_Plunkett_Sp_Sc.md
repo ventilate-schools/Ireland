@@ -4,9 +4,9 @@ title: St Oliver Plunkett Sp Sc
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St Oliver Plunkett Sp Sc (Dublin South County Dublin)
+# St Oliver Plunkett Sp Sc (South County Dublin)
 
 **Address**: Alma Place Carrigbreannan Blackrock Co Dublin
 

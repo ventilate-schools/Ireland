@@ -4,9 +4,9 @@ title: Our Lady Of Mercy Convent School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Our Lady Of Mercy Convent School (Dublin South County Dublin)
+# Our Lady Of Mercy Convent School (South County Dublin)
 
 **Address**: Booterstown, Co Dublin
 

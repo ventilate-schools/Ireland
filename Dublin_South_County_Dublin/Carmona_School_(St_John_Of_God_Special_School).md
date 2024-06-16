@@ -4,9 +4,9 @@ title: Carmona School (St John Of God Special School)
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Carmona School (St John Of God Special School) (Dublin South County Dublin)
+# Carmona School (St John Of God Special School) (South County Dublin)
 
 **Address**: Glenageary Co Dublin
 

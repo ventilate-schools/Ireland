@@ -4,9 +4,9 @@ title: Sallynoggin Killiney (S K Y) Educate Together National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Sallynoggin Killiney (S K Y) Educate Together National School (Dublin South County Dublin)
+# Sallynoggin Killiney (S K Y) Educate Together National School (South County Dublin)
 
 **Address**: C/O Holy Child Community School, Pearse Street, Thomastown, Sallynoggin
 

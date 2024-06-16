@@ -4,9 +4,9 @@ title: Adamstown Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Adamstown Community College (Dublin West County Dublin)
+# Adamstown Community College (West County Dublin)
 
 **Address**: Station Road, Adamstown, Co Dublin
 

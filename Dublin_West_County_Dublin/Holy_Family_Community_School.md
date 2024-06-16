@@ -4,9 +4,9 @@ title: Holy Family Community School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Holy Family Community School (Dublin West County Dublin)
+# Holy Family Community School (West County Dublin)
 
 **Address**: Kilteel Road Rathcoole Co Dublin
 

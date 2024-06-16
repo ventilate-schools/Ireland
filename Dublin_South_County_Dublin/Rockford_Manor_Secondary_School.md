@@ -4,9 +4,9 @@ title: Rockford Manor Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Rockford Manor Secondary School (Dublin South County Dublin)
+# Rockford Manor Secondary School (South County Dublin)
 
 **Address**: Stradbrook Rd Blackrock Co Dublin
 

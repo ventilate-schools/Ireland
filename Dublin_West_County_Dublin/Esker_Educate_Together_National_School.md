@@ -4,9 +4,9 @@ title: Esker Educate Together National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Esker Educate Together National School (Dublin West County Dublin)
+# Esker Educate Together National School (West County Dublin)
 
 **Address**: The Glebe, Esker Lane, Lucan, Co Dublin
 

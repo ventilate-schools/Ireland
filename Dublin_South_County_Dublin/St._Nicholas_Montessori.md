@@ -4,9 +4,9 @@ title: St. Nicholas Montessori
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# St. Nicholas Montessori (Dublin South County Dublin)
+# St. Nicholas Montessori (South County Dublin)
 
 **Address**: 16 Adelaide Street, Dun Laoghaire
 

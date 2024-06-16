@@ -4,9 +4,9 @@ title: St. Cronan's Senior National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St. Cronan's Senior National School (Dublin North County Dublin)
+# St. Cronan's Senior National School (North County Dublin)
 
 **Address**: Brackenstown Swords Co Dublin
 

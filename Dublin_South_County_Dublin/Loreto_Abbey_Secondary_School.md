@@ -4,9 +4,9 @@ title: Loreto Abbey Secondary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Loreto Abbey Secondary School (Dublin South County Dublin)
+# Loreto Abbey Secondary School (South County Dublin)
 
 **Address**: Dalkey Co Dublin
 

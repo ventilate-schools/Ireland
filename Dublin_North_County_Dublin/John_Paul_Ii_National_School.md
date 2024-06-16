@@ -4,9 +4,9 @@ title: John Paul Ii National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# John Paul Ii National School (Dublin North County Dublin)
+# John Paul Ii National School (North County Dublin)
 
 **Address**: Sonesta Malahide Co Dublin
 

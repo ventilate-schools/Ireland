@@ -4,9 +4,9 @@ title: Darndale National School Junior
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Darndale National School Junior (Dublin North County Dublin)
+# Darndale National School Junior (North County Dublin)
 
 **Address**: Our Lady Immac Jun Ns Darndale Malahide Road
 

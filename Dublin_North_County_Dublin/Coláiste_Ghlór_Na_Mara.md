@@ -4,9 +4,9 @@ title: Coláiste Ghlór Na Mara
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Coláiste Ghlór Na Mara (Dublin North County Dublin)
+# Coláiste Ghlór Na Mara (North County Dublin)
 
 **Address**: Bóthar Na Háille, Baile Brigín
 

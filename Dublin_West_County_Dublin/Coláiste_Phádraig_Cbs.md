@@ -4,9 +4,9 @@ title: Coláiste Phádraig Cbs
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Coláiste Phádraig Cbs (Dublin West County Dublin)
+# Coláiste Phádraig Cbs (West County Dublin)
 
 **Address**: Roselawn Lucan Co Dublin
 

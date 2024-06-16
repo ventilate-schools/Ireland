@@ -4,9 +4,9 @@ title: Our Lady Of Good Counsel Boys National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Our Lady Of Good Counsel Boys National School (Dublin South County Dublin)
+# Our Lady Of Good Counsel Boys National School (South County Dublin)
 
 **Address**: Johnstown Dun Laoghaire Co Dublin
 

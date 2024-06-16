@@ -4,9 +4,9 @@ title: Rathdown School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Rathdown School (Dublin South County Dublin)
+# Rathdown School (South County Dublin)
 
 **Address**: Glenageary Dun Laoghaire
 

@@ -4,9 +4,9 @@ title: St Michaels Spec Sch
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Michaels Spec Sch (Dublin North County Dublin)
+# St Michaels Spec Sch (North County Dublin)
 
 **Address**: Hacketstown Skerries Co Dublin
 

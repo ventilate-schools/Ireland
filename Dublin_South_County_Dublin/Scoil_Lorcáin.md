@@ -4,9 +4,9 @@ title: Scoil Lorcáin
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Scoil Lorcáin (Dublin South County Dublin)
+# Scoil Lorcáin (South County Dublin)
 
 **Address**: Cearnog Eaton Baile Na Manach Co Atha Cliath
 

@@ -4,9 +4,9 @@ title: Gaelscoil Brian Boroimhe
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Gaelscoil Brian Boroimhe (Dublin North County Dublin)
+# Gaelscoil Brian Boroimhe (North County Dublin)
 
 **Address**: Seanbhaile Bothar Chill Dheaglain Sord Contae Atha Cliath
 

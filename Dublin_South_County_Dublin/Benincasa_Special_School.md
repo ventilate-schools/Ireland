@@ -4,9 +4,9 @@ title: Benincasa Special School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Benincasa Special School (Dublin South County Dublin)
+# Benincasa Special School (South County Dublin)
 
 **Address**: 1 Mount Merrion Ave Blackrock Co Dublin
 

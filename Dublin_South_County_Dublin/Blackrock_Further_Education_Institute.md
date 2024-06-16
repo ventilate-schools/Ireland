@@ -4,9 +4,9 @@ title: Blackrock Further Education Institute
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Blackrock Further Education Institute (Dublin South County Dublin)
+# Blackrock Further Education Institute (South County Dublin)
 
 **Address**: Main Street, Blackrock, Co Dublin
 

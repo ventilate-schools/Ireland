@@ -4,9 +4,9 @@ title: Scoil Naisiunta Muire An Sean Baile
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Scoil Naisiunta Muire An Sean Baile (Dublin North County Dublin)
+# Scoil Naisiunta Muire An Sean Baile (North County Dublin)
 
 **Address**: Sean Bhaile Co Dublin
 

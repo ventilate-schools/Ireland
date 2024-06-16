@@ -4,9 +4,9 @@ title: Scoil Colmcille Senior
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Scoil Colmcille Senior (Dublin South County Dublin)
+# Scoil Colmcille Senior (South County Dublin)
 
 **Address**: Wyattville Ballybrack Co Dublin
 

@@ -4,9 +4,9 @@ title: Trinity House School Amalgamated
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Trinity House School Amalgamated (Dublin North County Dublin)
+# Trinity House School Amalgamated (North County Dublin)
 
 **Address**: Lusk Co Dublin
 

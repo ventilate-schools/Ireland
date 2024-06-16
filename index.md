@@ -45,15 +45,15 @@ A prior government page See <https://www.education.ie/en/Covid-19/> was taken do
 - [Donegal South](Donegal_South/): 24 schools
 - [Donegal West](Donegal_West/): 46 schools
 - [Donegal](Donegal/): 54 schools
-- [Dublin City](Dublin_City/): 472 schools
-- [Dublin North County Dublin](Dublin_North_County_Dublin/): 75 schools
-- [Dublin South County Dublin](Dublin_South_County_Dublin/): 77 schools
-- [Dublin West County Dublin](Dublin_West_County_Dublin/): 25 schools
-- [Galway City](Galway_City/): 43 schools
-- [Galway County](Galway_County/): 123 schools
-- [Galway North County](Galway_North_County/): 34 schools
-- [Galway South County](Galway_South_County/): 25 schools
-- [Galway West County](Galway_West_County/): 45 schools
+- [Dublin: City](Dublin_City/): 472 schools
+- [Dublin: North County Dublin](Dublin_North_County_Dublin/): 75 schools
+- [Dublin: South County Dublin](Dublin_South_County_Dublin/): 77 schools
+- [Dublin: West County Dublin](Dublin_West_County_Dublin/): 25 schools
+- [Galway: City](Galway_City/): 43 schools
+- [Galway: County](Galway_County/): 123 schools
+- [Galway: North County](Galway_North_County/): 34 schools
+- [Galway: South County](Galway_South_County/): 25 schools
+- [Galway: West County](Galway_West_County/): 45 schools
 - [Kerry North](Kerry_North/): 72 schools
 - [Kerry](Kerry/): 96 schools
 - [Kildare](Kildare/): 145 schools
@@ -64,17 +64,17 @@ A prior government page See <https://www.education.ie/en/Covid-19/> was taken do
 - [Limerick County](Limerick_County/): 140 schools
 - [Longford](Longford/): 41 schools
 - [Louth](Louth/): 107 schools
-- [Mayo East](Mayo_East/): 21 schools
-- [Mayo North](Mayo_North/): 75 schools
-- [Mayo South](Mayo_South/): 44 schools
-- [Mayo West](Mayo_West/): 54 schools
+- [Mayo: East](Mayo_East/): 21 schools
+- [Mayo: North](Mayo_North/): 75 schools
+- [Mayo: South](Mayo_South/): 44 schools
+- [Mayo: West](Mayo_West/): 54 schools
 - [Meath](Meath/): 145 schools
 - [Monaghan](Monaghan/): 80 schools
 - [Offaly](Offaly/): 96 schools
 - [Roscommon](Roscommon/): 115 schools
 - [Sligo](Sligo/): 110 schools
-- [Tipperary N.R](Tipperary_N.R/): 99 schools
-- [Tipperary S.R](Tipperary_S.R/): 121 schools
+- [Tipperary: North Riding](Tipperary_N.R/): 99 schools
+- [Tipperary: South Riding](Tipperary_S.R/): 121 schools
 - [Waterford City](Waterford_City/): 44 schools
 - [Waterford County](Waterford_County/): 70 schools
 - [Westmeath](Westmeath/): 117 schools

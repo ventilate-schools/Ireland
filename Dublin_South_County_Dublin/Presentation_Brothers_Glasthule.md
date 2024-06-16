@@ -4,9 +4,9 @@ title: Presentation Brothers Glasthule
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# Presentation Brothers Glasthule (Dublin South County Dublin)
+# Presentation Brothers Glasthule (South County Dublin)
 
 **Address**: Glasthule Dun Laoghaire Co Dublin
 

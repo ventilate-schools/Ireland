@@ -4,9 +4,9 @@ title: Coláiste Cois Life
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Coláiste Cois Life (Dublin West County Dublin)
+# Coláiste Cois Life (West County Dublin)
 
 **Address**: Gleann An Ghrífín Leamhcán Co Atha Cliath
 

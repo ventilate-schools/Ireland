@@ -4,9 +4,9 @@ title: St Colmcille's Girls National School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St Colmcille's Girls National School (Dublin North County Dublin)
+# St Colmcille's Girls National School (North County Dublin)
 
 **Address**: Swords Co Dublin
 

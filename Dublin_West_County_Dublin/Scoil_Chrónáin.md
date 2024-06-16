@@ -4,9 +4,9 @@ title: Scoil Chrónáin
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Scoil Chrónáin (Dublin West County Dublin)
+# Scoil Chrónáin (West County Dublin)
 
 **Address**: An Tsráid Mhór Ráth Cúil Co Átha Cliath
 

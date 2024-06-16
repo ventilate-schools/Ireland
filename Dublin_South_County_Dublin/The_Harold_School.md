@@ -4,9 +4,9 @@ title: The Harold School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin South County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In South County Dublin]](..)
 
-# The Harold School (Dublin South County Dublin)
+# The Harold School (South County Dublin)
 
 **Address**: Eden Road Glasthule Co Dublin
 

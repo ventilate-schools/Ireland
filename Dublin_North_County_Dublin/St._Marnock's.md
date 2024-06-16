@@ -4,9 +4,9 @@ title: St. Marnock's
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# St. Marnock's (Dublin North County Dublin)
+# St. Marnock's (North County Dublin)
 
 **Address**: Strand Road Portmarnock Co Dublin
 

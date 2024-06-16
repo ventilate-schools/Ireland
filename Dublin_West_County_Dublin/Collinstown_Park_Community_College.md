@@ -4,9 +4,9 @@ title: Collinstown Park Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Collinstown Park Community College (Dublin West County Dublin)
+# Collinstown Park Community College (West County Dublin)
 
 **Address**: Neilstown Rd. Rowlagh Clondalkin
 

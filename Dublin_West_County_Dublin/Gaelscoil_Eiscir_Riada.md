@@ -4,9 +4,9 @@ title: Gaelscoil Eiscir Riada
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin West County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In West County Dublin]](..)
 
-# Gaelscoil Eiscir Riada (Dublin West County Dublin)
+# Gaelscoil Eiscir Riada (West County Dublin)
 
 **Address**: Bóthar An Ghrifín, Leamhcán, Co. Átha Cliath
 

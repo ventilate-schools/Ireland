@@ -4,9 +4,9 @@ title: Balbriggan Community College
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In Dublin North County Dublin]](..)
+[[All countries/states/provinces]](../../..) > [[All Irish School Districts]](../..) > [[All In North County Dublin]](..)
 
-# Balbriggan Community College (Dublin North County Dublin)
+# Balbriggan Community College (North County Dublin)
 
 **Address**: Pine Ridge Chapel St. Balbriggan
 
