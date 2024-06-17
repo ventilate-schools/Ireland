@@ -36,7 +36,7 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 Schools should follow the guidelines provided by the Department of Education, which emphasize the importance of good ventilation to reduce the risk of airborne virus transmission. 
 
-Published in 2021, [Guidance on Ventilation in Schools](https://www.gov.ie/en/publication/ad236-guidance-on-ventilation-in-schools/) and still online in 2024. The linked PDFs are a solid discussion of ventilation, air filtration/cleaning and CO2 monitor as a proxy risk indicator. For Ireland in the summer months opening windows provides some benefit. This isn't likely to happen in the winter, or if the school as adjacent to a very busy road (diesel fumes).
+Published in 2021, [Guidance on Ventilation in Schools](https://www.gov.ie/en/publication/ad236-guidance-on-ventilation-in-schools/) and still online in 2024. The linked PDFs are a solid discussion of ventilation, air filtration/cleaning and CO2 monitor as a proxy risk indicator. For Ireland, between mid April and late October, the opening windows provides some benefit. This isn't likely to be workable in the winter for temperature reasons. Nor if the school as adjacent to a very busy road (diesel fumes), and other [particulate matter](https://www.epa.ie/environment-and-you/air/air-pollutants/#:~:text=Fine%20particulate%20matter,premature%20deaths%20in%20Ireland%20annually.) like that from fireplaces.
 
 A prior government page - <https://www.education.ie/en/Covid-19/> - was taken down in 2021, but [an archived version can be seen here](https://web.archive.org/web/20210109215847/https://www.education.ie/en/Covid-19/). Note: the page never talked of ventilation, air-filtration, etc.
 
