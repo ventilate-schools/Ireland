@@ -34,6 +34,9 @@ def analyze_directory(base_path):
 
     # Walk through all files and directories within the base_path
     for root, dirs, files in os.walk(base_path):
+        # Skip the .git directory
+        dirs[:] = [d for d in dirs if d != '.git']
+
         local_grades = []
         for file in files:
             if file.endswith('.md'):
